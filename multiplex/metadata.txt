@@ -1,0 +1,119 @@
+1. Title: Movies at the rental from 2017 to 2021 at the Multiplex Cinema Database
+
+2. Relevant Information:
+   -- Description
+      This data set consists of one type entity: the specification
+      of the film for its various characteristics, including rental.
+
+      The specification of one film consists of its title, genre, 
+      studio, year, country of production, duration (timing) in
+      minutes. The rental properties of the film include the
+      length (in days) of rental at the Multiplex cinema, the age
+      limit for viewing, and the films rating.
+
+3. Number of Instances: 1012
+
+4. Number of Attributes: 9 total
+   -- 6 nominal
+   -- 2 integer
+   -- 1 continuous
+
+5. Attribute Information:     
+     Attribute:                Attribute Range:
+     ------------------        -----------------------------------------------
+  1. name:                     name of film in English, like "Wind River".
+
+  2. genre:                    Action, Comedy, Drama, Fantasy, Cartoon, Ballet, 
+                               Melodrama, Biographical, Thriller, Adventure,
+                               Crime, Family, Horrors, Animation,
+                               Detective, Romance, Performance, Musical,
+                               Documentary, Western, Art, Mysticism, Historical,
+                               Military, Sport, Tragedy.
+
+  3. studio:                   Warner Brothers Pictures, TF1, Universal Pictures,
+                               Marro Films, Thunder Road Pictures, Ciné,
+                               Cross Creek Pictures, Dayenu Films, 42,
+                               RabbitBandini Productions, BRON Studios,
+                               Paramount Pictures, Sony Pictures Entertainment,
+                               1inMM Productions, 20th Century Fox, Sagatoon AS,
+                               Columbia Pictures, Lions Gate Films,
+                               Cinema Management Group, Maipo Film, Studio Canal,
+                               Mirror Productions, Les Films Pelléas, Huhu Studios,
+                               Backup Media, Warp Films, Walt Disney Pictures,
+                               Canal+, STX Entertainment, Thefyzz, Barunson E&A,
+                               Gaumont Distribution, B-Reel Films, Brown Films AIE,
+                               Arthur Sarkissian Productions, Magna Entertainment,
+                               Roy Andersson Filmproduktion AB, The Post Republic,
+                               Silver Screen, Arcadia, Kadokawa Pictures,
+                               First Lady Film, Film i Väst, Foresight,
+                               Odd Lot Entertainment, Orion Pictures, Barunson E&A,
+                               Pathé, Ghibli, Millennium Films, Twisted Pictures,
+                               Studio Ghibli, Global Road Entertainment, Lightbox,
+                               Nordisk Film Production, Fabrique, El Deseo S.A.,
+                               Anima Estudios, Eclipse Films, Samson Films,
+                               Denver and Delilah Productions, LUXX Film, EuropaCorp,
+                               Inspiring Films, The Penguin Empire, AGBO, Film4,
+                               Pacific Electric Picture Company, Eventidigitali Films,
+                               Screen Australia, Playmobil, BBC Films, Vanishing Angle,
+                               Les Productions du Trésor, Discreet Arts Productions,
+                               Goldrush Entertainment, Entertainment One, Searchlight,
+                               Hopscotch Features, Classified Films, Emmett,
+                               Riverstone Pictures, Centropolis Entertainment,
+                               DreamWorks Animation, Marvel Studios, GO Production,
+                               Locus Creative Studios, FilmNation Entertainment,
+                               Hold Up Films, Big Indie Pictures, Black Bear Pictures,
+                               ReFuel Productions, Armory Films, TrustNordisk,
+                               Traumfabrik Babelsberg, BondIt Media Capital, Légende,
+                               Rollercoaster Angel Productions, ESX Entertainment,
+                               Talisman Animations, Arte France Cinéma, Heyday Films,
+                               Nickelodeon Movies, Lakeshore Entertainment, IFC Films,
+                               Altitude Film Entertainment, Rai Cinema, Erfttal Film,
+                               CalMaple Media, Davis-Films, Like A Photon Creative,
+                               VVS Films, China Film (Shanghai) International Media Co.,
+                               South Australian Film, Monkey Pack Films, Jaguar Cinema,
+                               Ad Vitam Production, Focus Features, Bona Film Group,
+                               Good Films Collective, Bron Studios, Constantin Film,
+                               Skubalon, Ingenious Media, Voltage Pictures, Sky Cinema,
+                               Marenostrum Producciones, Ambience Entertainment, PAR,
+                               Head Gear Films, Next Entertainment World, XYZ FILMS,
+                               Sandcastle Studios, Schemers Film, Green Ray Films,
+                               Zentropa Entertainments, Frakas Productions, Saturn Films,
+                               Bayerischer Rundfunk, Escape Productions, A Band Apart,
+                               Ulysses Filmproduktion, Artémis Productions, Fantasy Films, 
+                               Automatik Entertainment, Single Malt Productions, UNI, 
+                               Medusa Produzione Sciarlò, Zweites Deutsches Fernsehen,
+                               Vertical Entertainment, Motion Picture Capital,
+                               Parkhouse Pictures, Landay Entertainment, Riama film,
+                               Breidablick Film AB, Shadowhouse Films, Cactus Films,
+                               Amazon Content Sevices, Diamond Films, 113, Paradis Films,
+                               Cinelou Films, 308 Ent, LOD Productions, Ciudadano Ciskul,
+                               Gold Valley Films, Pixar Animation Studios, Aqute Media,
+                               Vortex Productions, Buffalo 8 Productions, Kultfilma,
+                               Plan B Entertainment, Bac Films, Splash Entertainment,
+                               France 3 Cinéma, Endorfilm, Kinology, AGC Studios, Align,
+                               Resolute Films and Entertainment, 120dB Films, Moonmakers, 
+                               Letterbox Filmproduktion, GVF, Red Hour Films, Lemon Studios,
+                               Magnolia Pictures, Company X, Blue Fox Entertainment,
+                               Dor Film Produktionsgesellschaft,  Interstellar pictures,
+                               Entre Chien et Loup, Qvisten Animation, Kristi Films,
+                               Argentina Sono Film S.A.C.I., Les Films du Poisson,
+                               MXN Entertainment, New Line Cinema, Metro-Goldwyn-Mayer.
+
+  4. country:                  United Kingdom, France, Ukraine, USA, Germany, Lithuania, 
+                               Australia, Russia, Italy, Peru, Norway, Ireland, Belgium,
+                               New Zealand, Denmark, China, Luxembourg, Iceland, Spain,
+                               Argentina, Japan, Czech, Andorra, Sweden, Malaysia, India,
+                               Poland, OAU, Bulgaria, Finland, Mexico, Austria, South Korea,
+                               Northern Macedonia, Georgia, Mauritius, Netherlands, Hungary,
+                               Romania, Hong Kong, Latvia, Tunisia, Kenya, South Africa,
+                               Canada, Colombia.
+
+  5. duration:                 integer from 57 to 217.
+
+  6. age_limit:                0, 12, 16, 18
+
+  7. release:                  year from 1960 to 2021.
+
+  8. rental_duration:          integer from 1 to 213.
+
+  9. rating:                   continuous from 2.2 9.2.

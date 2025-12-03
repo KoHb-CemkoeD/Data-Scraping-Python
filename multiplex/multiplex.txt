@@ -1,0 +1,1014 @@
+name,genre,studio,country,duration,age_limit,release,rental_duration,rating
+
+"Wind River","Action","Warner Brothers Pictures","United Kingdom",110,16,2017,13,7.7
+"À bras ouverts","Comedy","TF1","France",92,16,2017,13,5.5
+"Black Level","Drama","Universal Pictures","Ukraine",91,16,2017,6,5.7
+"The Hitman's Bodyguard","Action","Summit Entertainment","USA",111,16,2017,48,6.9
+"Seven Sisters","Fantasy","Vertigo Média","United Kingdom",123,16,2017,34,6.9
+"Rabbit school","Cartoon","Warner Brothers Pictures","Germany",79,0,2017,13,5.7
+"Wakefield","Drama","Marro Films","USA",106,16,2017,13,6.3
+"Mon ange","Melodrama","Ciné","France",79,16,2017,6,6.1
+"All eyez on me","Drama","Summit Entertainment","USA",139,16,2017,20,5.9
+"Paris pieds nus","Comedy","Ciné","France",83,12,2017,27,6.3
+"Suicide squad","Fantasy","Cross Creek Pictures","USA",123,16,2017,20,5.9
+"Jour J","Comedy","Ciné","France",94,12,1970,20,6.2
+"Drunk parents","Comedy","Bron Studios","USA",110,16,2017,27,3.9
+"War with Grandpa","Comedy","Marro Films","USA",97,0,2017,71,5.6
+"Le redoutable","Biographical","Studio Canal","France",102,16,2017,6,6.6
+"Molly's Game","Drama","STX Entertainment","USA",141,16,2017,34,7.4
+"A Bad Moms Christmas","Comedy","STX Entertainment","USA",105,16,2017,41,5.6
+"You Were Never Really Here","Thriller","Film4","United Kingdom",95,16,2018,6,6.8
+"Jumanji Welcome to the Jungle","Adventure","Columbia Pictures","USA",120,12,2017,69,6.9
+"Just Getting Started","Comedy","Entertainment One","USA",94,16,2017,13,4.5
+"A Little Something for Your Birthday","Comedy","Universal Pictures","USA",94,12,2017,13,5.2
+"Replicas","Thriller","Ingenious Media","USA",107,16,2018,20,5.5
+"The Shape of Water","Drama","TSG Entertainment","USA",123,16,2017,62,7.3
+"Frost","Drama","Dayenu Films","Lithuania",120,16,2017,6,5.7
+"Downsizing","Fantasy","Paramount Pictures","USA",135,12,2018,27,5.7
+"Isle of Dogs","Comedy","Traumfabrik Babelsberg","USA",101,12,2017,20,7.9
+"Deadpool 2","Action","Universal Pictures","USA",119,18,2018,57,7.7
+"Avengers Infinity War","Fantasy","Marvel Studios","USA",150,12,2018,42,8.4
+"The Predator","Action","TSG Entertainment","USA",107,16,2018,34,5.3
+"The Greatest Showman","Drama","TSG Entertainment","USA",104,0,2017,57,7.6
+"Alita Battle Angel","Fantasy","20th Century Fox","USA",122,12,2018,47,7.3
+"Ant-Man and the Wasp","Fantasy","Walt Disney Pictures","United Kingdom",118,12,2018,41,7.0
+"Ocean's Eight","Crime","Warner Brothers Pictures","USA",111,12,2018,55,6.3
+"Jurassic World Fallen Kingdom","Action","Ambience Entertainment","USA",128,12,2018,6,6.2
+"Maze Runner The Death Cure","Fantasy","20th Century Fox","USA",139,16,2018,48,6.3
+"The Florida Project","Drama","June Pictures","USA",115,16,2017,13,7.6
+"Falling","Drama","Universal Pictures","Ukraine",105,16,2017,6,7.0
+"Geostorm","Action","Warner Brothers Pictures","USA",108,12,2017,6,5.3
+"Paddington 2","Family","Studio Canal","United Kingdom",105,0,2017,6,7.8
+"Fifty Shades Freed","Drama","Marro Films","USA",106,16,2018,20,4.5
+"Eat locals","Horrors","Evolution Pictures","United Kingdom",94,16,2017,20,5.4
+"Future world","Fantasy","RabbitBandini Productions","USA",90,16,2017,20,3.2
+"I","Biographical","BBC Films","USA",119,16,2017,20,7.5
+"Gotti","Thriller","Emmett","USA",105,16,2017,20,4.8
+"Submergence","Thriller","Warner Brothers Pictures","Germany",112,16,2017,6,5.4
+"Darkest Hour","Biographical","Universal Pictures","United Kingdom",125,12,2017,67,7.4
+"Final Portrait","Drama","Riverstone Pictures","United Kingdom",90,16,2018,6,6.3
+"Insidious The Last Key","Thriller","Bron Studios","Canada",103,16,2018,41,5.7
+"Happy End","Drama","Ciné","France",107,16,2018,6,6.7
+"Gnome Alone","Animation","Bron Studios","Canada",85,0,2018,27,5.6
+"Aus dem Nichts","Drama","Warner Brothers Pictures","Germany",106,16,2018,6,7.1
+"Alpha","Drama","Columbia Pictures","USA",96,12,2017,41,6.7
+"Red Sparrow","Thriller","TSG Entertainment","USA",140,16,2018,41,6.6
+"Game Night","Comedy","New Line Cinema","USA",93,16,2018,34,6.9
+"A Quiet Place","Thriller","Paramount Pictures","USA",90,16,2018,1,7.5
+"Peter Rabbit","Adventure","Columbia Pictures","USA",95,0,2018,62,6.6
+"Tully","Comedy","Sony Pictures Entertainment","USA",94,16,2018,20,7.0
+"All the Money in the World.","Drama","Warner Brothers Pictures","USA",132,16,2018,20,6.8
+"Bad Samaritan","Horrors","Pacific Electric Picture Company","USA",114,16,2018,13,6.5
+"In Darkness","Thriller","42","USA",100,16,2018,13,5.8
+"Drôles de petites bêtes","Family","Ciné","France",77,0,2017,12,4.7
+"The Death of Stalin","Comedy","Gaumont Film Company","United Kingdom",107,16,2017,20,7.3
+"Eva","Drama","EuropaCorp","France",100,16,2018,6,4.7
+"Winchester The House that Ghosts Built","Detective","Paramount Pictures","Australia",99,16,2018,13,5.5
+"Santa & Cie","Comedy","Légende","France",92,0,2018,20,6.3
+"Star Wars The Last Jedi","Fantasy","Walt Disney Pictures","USA",150,12,2017,2,6.9
+"Daddy Cool","Comedy","Universal Pictures","France",97,12,2018,13,5.7
+"Manhattan Night","Thriller","Big Indie Pictures","USA",113,16,2018,13,6.2
+"9/11","Drama","Black Bear Pictures","USA",90,16,2018,6,4.3
+"Cherchez la femme","Romance","Arte France Cinéma","France",88,12,2018,6,6.2
+"Euphoria","Drama","Warner Brothers Pictures","Germany",104,16,2018,13,5.8
+"Slumber","Horrors","Vertical Entertainment","United Kingdom",84,16,2018,13,4.7
+"What Men Talk About. Continuation","Comedy","Paramount Pictures","Russia",97,16,2018,41,6.4
+"Incident in a Ghost Land","Horrors","Kinology","France",91,18,2018,13,6.4
+"Death Wish","Action","Metro-Goldwyn-Mayer","USA",108,18,2018,13,6.3
+"Anon","Fantasy","Warner Brothers Pictures","Germany",100,16,2018,20,6.1
+"Taxi 5","Action","EuropaCorp","France",103,12,2018,48,4.7
+"7 Days in Entebbe","Drama","Entertainment One","USA",106,16,2018,6,5.8
+"Occupation","Drama","Universal Pictures","Ukraine",90,12,2018,20,5.6
+"Amanda and the Fox","Comedy","Picture Twelve","USA",88,0,2018,6,5.0
+"Slender man","Horrors","Screen Gems","USA",110,18,2018,27,3.2
+"Dark Phoenix","Fantasy","20th Century Fox","USA",114,12,2019,34,5.7
+"Venom","Horrors","Columbia Pictures","USA",112,16,2018,55,6.7
+"Fantastic Beasts The Crimes of Grindelwald","Adventure","Warner Brothers Pictures","USA",135,12,2018,41,6.5
+"The Nutcracker and the Four Realms","Fantasy","Walt Disney Pictures","USA",99,0,2018,44,5.6
+"Mission Impossible – Fallout","Action","Sky Cinema","USA",147,12,2018,13,7.7
+"Incredibles 2","Cartoon","Walt Disney Pictures","USA",125,0,2018,55,7.6
+"La ragazza nella nebbia","Thriller","Lion's Gate Films","Italy",128,16,2018,6,6.8
+"The Place","Comedy","Lion's Gate Films","Italy",105,16,2018,20,7.0
+"Submergence","Drama","Warner Brothers Pictures","Germany",112,16,2018,1,5.4
+"Condorito La Película","Animation","Cinema Management Group","Peru",88,0,2018,13,5.3
+"Elias og Storegaps Hemmelighet","Cartoon","Anima Estudios","Norway",75,0,2018,6,5.1
+"The Cured","Horrors","Mirror Productions","Ireland",95,16,2018,27,5.6
+"The Dinner","Thriller","Vertigo Releasing","USA",120,16,2018,27,4.5
+"Dear Dictator","Comedy","Universal Pictures","USA",90,16,2018,13,5.0
+"Thelma","Thriller","Maipo Film","Norway",116,16,2018,27,7.0
+"I Kill Giants","Fantasy","Les Films Pelléas","Belgium",104,12,2018,13,6.2
+"Gringo","Drama","Paramount Pictures","Australia",110,16,2018,20,6.1
+"Kickboxer Retaliation","Action","Our House Films","USA",110,16,2018,20,5.0
+"Mortal Engines","Fantasy","Huhu Studios","New Zealand",129,12,2018,27,6.1
+"Aquaman","Fantasy","Warner Brothers Pictures","USA",144,12,2018,13,6.9
+"How to Train Your Dragon The Hidden World","Animation","DreamWorks Animation","USA",104,0,2019,34,7.5
+"Spider-Man Into the Spider-Verse","Fantasy","Columbia Pictures","USA",117,0,2018,85,8.4
+"Godzilla King of the Monsters","Fantasy","Warner Brothers Pictures","USA",132,12,2019,34,6.0
+"Mowgli","Action","Sony Pictures Entertainment","United Kingdom",109,12,2018,13,6.5
+"The Equalizer 2","Drama","Paramount Pictures","USA",121,16,2018,27,6.7
+"Captain Marvel","Fantasy","Marvel Studios","USA",124,12,2019,55,6.8
+"Rampage","Action","New Line Cinema","USA",108,16,2018,55,6.1
+"Skyscraper","Action","Universal Pictures","USA",103,12,2018,48,5.8
+"Hotel Transylvania 3 Summer Vacation","Cartoon","Columbia Pictures","USA",100,0,2018,4,6.3
+"Mamma Mia! Here We Go Again","Musical","Universal Pictures","USA",114,12,2018,27,6.6
+"Smallfoot","Animation","Warner Brothers Pictures","USA",97,0,2018,69,6.6
+"The Grinch","Comedy","Universal Pictures","USA",90,0,2018,13,6.4
+"I Feel Pretty","Comedy","STX Entertainment","USA",110,12,2018,6,5.6
+"The House That Jack Built","Thriller","Backup Media","Denmark",155,18,2018,13,6.8
+"Duck Duck Goose","Family","Lion's Gate Films","China",91,0,2018,27,5.8
+"The Death and Life of John F. Donovan","Drama","Warp Films","Canada",100,16,2018,20,6.2
+"Hellboy","Action","Columbia Pictures","USA",121,18,2019,27,5.2
+"Toy Story 4","Animation","Walt Disney Pictures","USA",100,0,2019,48,7.7
+"Avengers Endgame","Fantasy","Marvel Studios","USA",181,12,2019,48,8.4
+"Bumblebee","Fantasy","Paramount Pictures","USA",114,12,2018,4,6.7
+"Bel Canto","Thriller","A-Line Pictures","USA",100,16,2018,13,5.5
+"Charming","Cartoon","Vanguard Animation","USA",85,0,2018,27,5.6
+"A Star Is Born","Musical","Metro-Goldwyn-Mayer","USA",135,16,2018,48,7.6
+"Bohemian Rhapsody","Biographical","20th Century Fox","USA",129,16,2018,48,7.9
+"Blockers","Comedy","Universal Pictures","USA",101,16,2018,48,6.2
+"Fack ju Göhte 3","Comedy","Warner Brothers Pictures","Germany",120,16,2018,13,5.4
+"Truth or Dare","Horrors","Universal Pictures","USA",100,16,2018,27,5.2
+"The Strangers Prey at Night","Horrors","Sony Pictures Entertainment","USA",85,18,2018,6,5.2
+"The Titan","Fantasy","Voltage Pictures","USA",97,16,2018,13,4.8
+"Mon garçon","Thriller","Canal+","France",84,16,2018,13,5.8
+"Dans la brume","Fantasy","Kinology","France",90,16,2018,13,5.9
+"Leo Da Vinci Mission Mona Lisa","Biographical","Lion's Gate Films","Italy",90,0,2018,13,5.1
+"Overboard","Comedy","Metro-Goldwyn-Mayer","USA",112,12,2018,20,6.0
+"Mary Poppins Returns","Musical","Walt Disney Pictures","USA",130,0,2018,31,6.7
+"The Butterfly Tree","Drama","Paramount Pictures","Australia",97,16,2018,27,5.5
+"Throne of Elves","Fantasy","Lion's Gate Films","China",92,0,2018,6,6.2
+"Selfie from Hell","Horrors","Bron Studios","Canada",90,18,2018,13,2.9
+"Christopher Robin","Biographical","Walt Disney Pictures","United Kingdom",107,0,2018,34,7.3
+"Barrage","Drama","STX Entertainment","Luxembourg",112,16,2018,6,5.9
+"PLOEY. You Never Fly Alone","Animation","Thefyzz","Iceland",101,0,2018,27,5.4
+"Brillantissime","Comedy","Studio Canal","France",95,16,2018,13,4.4
+"Ami-ami","Comedy","Canal+","France",86,16,2018,13,5.5
+"THE BOBOT","Adventure","Universal Pictures","Ukraine",100,0,2018,20,4.8
+"Midnight Sun","Drama","Global Road Entertainment","USA",91,12,2018,13,6.6
+"Den utrolige historie om den kæmpestore pære","Cartoon","Backup Media","Denmark",78,0,2018,13,6.3
+"Ugly","Drama","Universal Pictures","Ukraine",92,16,2018,27,5.9
+"Au revoir là-haut","Drama","Gaumont Film Company","France",117,16,2018,20,7.5
+"Status Update","Comedy","Voltage Pictures","USA",106,12,2018,20,5.8
+"Replace","Horrors","Warner Brothers Pictures","Germany",101,16,2018,27,4.8
+"Life of the Party","Comedy","New Line Cinema","USA",105,12,2018,34,5.6
+"Delirium","Horrors","Universal Pictures","USA",96,16,2018,20,5.8
+"Jeune femme","Comedy","Gaumont Film Company","France",97,16,2018,27,6.5
+"Jim Knopf und Lukas der Lokomotivfuhrer","Adventure","Warner Brothers Pictures","USA",105,0,2018,13,6.3
+"Unsane","Thriller","Regency Enterprises","USA",97,18,2018,6,6.4
+"Terminal","Thriller","Ambience Entertainment","USA",95,16,2018,27,5.4
+"Mountain","Documentary","Paramount Pictures","Australia",74,0,2018,20,7.2
+"Hereditary","Fantasy","B-Reel Films","USA",127,16,2018,20,7.3
+"Tag","Comedy","New Line Cinema","USA",94,16,2018,27,6.5
+"Tout le monde debout","Comedy","Gaumont Film Company","France",107,12,2018,6,6.5
+"Johnny English Strikes Again","Comedy","Studio Canal","USA",89,12,2018,34,6.2
+"Creed 2","Drama","Metro-Goldwyn-Mayer","USA",130,16,2018,27,7.1
+"Ralph Breaks the Internet Wreck-It Ralph 2","Comedy","Walt Disney Pictures","USA",112,0,2018,34,7.0
+"The Man Who Killed Don Quixote","Adventure","Brown Films AIE","Spain",132,12,2018,6,6.4
+"The Meg","Action","Warner Brothers Pictures","USA",113,12,2018,48,5.6
+"The Endless","Fantasy","Snowfort Pictures","USA",111,16,2018,6,6.5
+"Mission Kathmandu The Adventures of Nelly & Simon","Comedy","Bron Studios","Canada",80,0,2018,34,5.1
+"Zoe","Fantasy","Global Road Entertainment","USA",104,16,2018,20,6.1
+"Loving Pablo","Drama","Escobar Films","USA",106,16,2018,41,6.3
+"Madame Hyde","Comedy","Arte France Cinéma","France",95,16,2018,20,5.2
+"Maya the Bee The Honey Games","Family","Warner Brothers Pictures","Germany",85,0,2018,13,5.6
+"Show Dogs","Comedy","Global Road Entertainment","USA",92,0,2018,34,3.9
+"BlacKkKlansman","Thriller","Monkey Pack Films","USA",128,16,2018,27,7.5
+"Mary Shelley","Drama","Head Gear Films","United Kingdom",120,16,2018,13,6.5
+"Every day","Melodrama","Orion Pictures","USA",95,12,2018,6,6.5
+"The Darkest Minds","Fantasy","20th Century Fox","USA",104,12,2018,27,5.7
+"The House with a Clock in Its Walls","Fantasy","Ambience Entertainment","USA",102,12,2018,55,6.1
+"Sicario 2 Soldado","Action","Black Bear Pictures","USA",123,16,2018,20,7.1
+"No Dormiras","Horrors","Arthur Sarkissian Productions","Argentina",106,16,2018,13,5.1
+"Book club","Comedy","Paramount Pictures","USA",104,12,2018,20,6.1
+"Wilding","Horrors","Maven Pictures","USA",92,16,2018,13,5.5
+"Sayonara no asa ni yakusoku no hana o kazaro","Animation","Paramount Pictures","Japan",115,12,2018,6,7.5
+"Escape Plan 2 Hades","Thriller","Summit Entertainment","USA",96,16,2018,27,3.9
+"Hotel Artemis","Action","Lion's Gate Films","USA",94,16,2018,20,6.1
+"Earth One Amazing Day","Documentary","BBC Films","United Kingdom",95,0,2018,27,7.8
+"La ch'tite famille","Comedy","TF1","France",107,12,2018,20,5.8
+"Robin Hood","Adventure","Summit Entertainment","USA",116,12,2018,27,5.3
+"London Fields","Thriller","Head Gear Films","United Kingdom",118,16,2018,26,3.9
+"Adrift","Adventure","STX Entertainment","USA",97,16,2018,27,6.6
+"Hot dog","Action","Warner Brothers Pictures","Germany",105,12,2018,6,3.9
+"Climax","Musical","Les Films Pelléas","France",96,18,2018,13,7.0
+"The Sisters Brothers","Western","Mirror Productions","USA",121,16,2018,13,6.9
+"The Extraordinary Journey of the Fakir","Comedy","TF1","France",92,12,2018,20,6.9
+"Hostile","Horrors","Motion Picture Capital","France",83,16,2018,20,5.4
+"The Spy Who Dumped Me","Comedy","Imagine Entertainment","USA",117,16,2018,48,6.1
+"Les Affamés","Horrors","Bron Studios","Canada",104,18,2018,6,5.8
+"Schatz","Comedy","Warner Brothers Pictures","Germany",90,12,2018,13,5.1
+"Billionaire Boys Club","Thriller","Armory Films","USA",100,16,2018,27,5.6
+"Summer","Biographical","Roy Andersson Filmproduktion AB","Russia",126,16,2018,20,7.3
+"Le grand méchant Renard et autres contes...","Animation","Studio Canal","France",79,0,2018,13,7.4
+"White Boy Rick","Drama","Columbia Pictures","USA",120,16,2018,6,6.5
+"Halloween","Horrors","Universal Pictures","USA",109,18,2018,13,6.6
+"The Man Who Stole Banksy","Documentary","Lion's Gate Films","Italy",90,16,2018,6,6.3
+"Malicious","Horrors","Impossible Dream Entertainment","USA",91,18,2018,20,5.0
+"The Nun","Thriller","New Line Cinema","USA",96,16,2018,34,5.3
+"Dumbo","Family","Walt Disney Pictures","USA",112,0,2018,42,6.3
+"Office Uprising","Comedy","Mind the Gap Productions","USA",91,16,2018,13,5.8
+"Budapest","Comedy","Canal+","France",102,16,2018,13,5.4
+"Hot Summer Nights","Drama","Imperative Entertainment","USA",107,16,2018,6,6.4
+"Sonic the Hedgehog","Animation","Paramount Pictures","Japan",99,0,2018,34,6.5
+"Patrick","Comedy","BondIt Media Capital","United Kingdom",94,0,2018,27,5.9
+"Beast of Burden","Thriller","Paul Schiff Productions","USA",89,16,2018,27,3.6
+"Don't Worry","Comedy","Big Indie Pictures","USA",113,12,2018,13,6.9
+"John Wick 3 Chapter 3 - Parabellum","Thriller","Lion's Gate Films","USA",131,16,2018,55,7.4
+"Mandy","Action","XYZ Films","USA",121,18,2018,13,6.6
+"Mile 22","Action","STX Entertainment","USA",95,16,2018,20,6.2
+"Es war einmal in Deutschland...","Comedy","Warner Brothers Pictures","Germany",101,12,2018,20,6.5
+"Dieses bescheuerte Herz","Melodrama","The Post Republic","Germany",104,12,2018,13,7.0
+"Monkey King Reloaded","Animation","China Film (Shanghai) International Media Co.","USA",78,0,2018,13,6.9
+"The catcher was a spy","Biographical","IFC Films","USA",98,16,2018,27,6.2
+"A-X-L","Fantasy","Lakeshore Entertainment","USA",99,12,2018,20,5.3
+"Kona fer í stríð","Drama","Solar Media Entertainment","France",100,12,2018,27,7.4
+"Destination wedding","Comedy","Thefyzz","USA",86,16,2018,27,6.0
+"Curse of the Witch's Doll","Horrors","Up A Notch Company","United Kingdom",95,18,2018,6,3.3
+"Peppermint","Thriller","Lakeshore Entertainment","USA",102,16,2018,27,6.5
+"The Favourite","Biographical","Film4","USA",119,16,2018,5,7.5
+"Kin","Fantasy","Lion's Gate Films","USA",102,12,2018,13,5.8
+"Papillon","Crime","Red Hour Films","USA",133,16,2018,34,7.2
+"When the Trees Fall","Drama","Universal Pictures","Ukraine",88,16,2018,13,6.8
+"A Simple Favor","Thriller","Universal Pictures","USA",118,16,2018,41,6.8
+"Shazam!","Fantasy","New Line Cinema","USA",132,16,2019,42,7.0
+"Mirai no Mirai","Animation","Paramount Pictures","Japan",100,0,2018,13,7.0
+"Lichozrouti","Cartoon","Silver Screen","Czech",83,0,2018,13,5.8
+"The Happytime Murders","Comedy","STX Entertainment","USA",95,16,2018,13,5.4
+"Bad Times at the El Royale","Thriller","20th Century Fox","USA",142,16,2018,27,7.1
+"Overlord","Horrors","Paramount Pictures","USA",110,18,2018,20,6.6
+"Goosebumps 2 Haunted Halloween","Adventure","Columbia Pictures","USA",100,12,2018,20,5.6
+"First man","Biographical","Universal Pictures","USA",135,0,2018,27,7.3
+"Wonder Park","Adventure","Brown Films AIE","Spain",85,0,2018,43,5.9
+"Penguin highway","Animation","Paramount Pictures","Japan",118,0,2018,37,7.1
+"Gaston Lagaffe","Comedy","Les Films Pelléas","France",100,0,2018,6,4.4
+"Mara","Thriller","120dB Films","USA",98,16,2018,13,7.0
+"Heilstätten","Horrors","Warner Brothers Pictures","Germany",89,16,2018,13,4.1
+"Cats & Peachtopia/MAO YU TAO HUA YUAN","Cartoon","Lion's Gate Films","China",85,0,2018,20,4.8
+"I Still See You","Thriller","Motion Picture Capital","USA",108,16,2018,20,5.8
+"The Professor and the Madman","Biographical","Mirror Productions","Ireland",124,16,2019,13,7.3
+"Luis & the Aliens","Cartoon","Warner Brothers Pictures","Germany",85,0,2018,34,6.0
+"The Girl in the Spider's Web","Crime","Columbia Pictures","United Kingdom",115,16,2018,27,6.1
+"Hunter Killer","Action","Millennium Films","USA",100,16,2018,6,6.6
+"Life itself","Romance","Sony Pictures Entertainment","USA",117,16,2018,20,6.9
+"Todos lo saben","Thriller","Brown Films AIE","Spain",133,16,2018,13,6.9
+"Everybody's Talking About Jamie","Musical","Regency Enterprises","United Kingdom",154,18,2018,6,7.8
+"Salvador Dali In Search of Immortality","Art","Arcadia","Andorra",105,16,2018,13,7.5
+"Nureyev","Mysticism","BBC Films","United Kingdom",110,18,2018,27,7.1
+"Wildlife","Drama","FilmNation Entertainment","USA",104,16,2018,13,6.8
+"Belleville Cop","Comedy","Tessalit Productions","France",111,12,2018,20,4.9
+"Gräns","Thriller","Roy Andersson Filmproduktion AB","Sweden",110,16,2018,6,7.0
+"Widows","Thriller","Film4","USA",130,16,2018,27,6.9
+"Elliot the Littlest Reindeer","Family","Bron Studios","Canada",89,0,2018,20,5.1
+"Le grand bain","Comedy","Studio Canal","France",122,16,2018,13,7.0
+"The Glass","Thriller","Universal Pictures","USA",129,16,2019,42,6.6
+"The Lego Movie 2 The Second Part","Animation","Warner Brothers Pictures","USA",108,0,2019,27,6.6
+"The Kid Who Would Be King","Adventure","20th Century Fox","United Kingdom",120,0,2018,13,6.0
+"The Curse of La Llorona","Horrors","Warner Brothers Pictures","USA",94,16,2018,20,5.3
+"It Chapter two","Horrors","Warner Brothers Pictures","USA",169,18,2019,34,6.5
+"Wonder Woman 1984","Fantasy","Warner Brothers Pictures","USA",151,12,2020,30,5.4
+"Mary Queen of Scots","Drama","Universal Pictures","United Kingdom",125,16,2018,27,6.3
+"Tea Pets","Cartoon","Lion's Gate Films","China",98,0,2018,20,5.7
+"Fleuve noir","Thriller","Arte France Cinéma","France",113,16,2018,27,6.3
+"Suspiria","Thriller","Lion's Gate Films","Italy",152,18,2018,20,6.8
+"Core of the World","Drama","Kadokawa Pictures","Russia",120,18,2018,20,6.2
+"Hell Fest","Thriller","Lion's Gate Films","USA",89,16,2018,13,5.5
+"The Guernsey Literary and Potato Peel Pie Society","Drama","Studio Canal","United Kingdom",129,12,2018,27,7.4
+"Ribbit","Cartoon","Sony Pictures Entertainment","Malaysia",88,0,2018,6,4.1
+"Peter Pan The Quest for The never Book","Animation","First Lady Film","India",90,0,2018,20,4.4
+"Unga Astrid","Melodrama","Roy Andersson Filmproduktion AB","Sweden",123,12,2018,6,7.1
+"Pokémon Detective Pikachu","Adventure","Warner Brothers Pictures","Japan",104,0,2019,41,6.6
+"GODZILLA VS KONG","Fantasy","Warner Brothers Pictures","USA",113,16,2021,63,6.4
+"Serenity","Thriller","Global Road Entertainment","USA",100,16,2018,27,5.4
+"Time Freak","Drama","Lion's Gate Films","USA",100,12,2018,6,5.8
+"Look away","Thriller","Vertical Entertainment","USA",103,16,2018,13,5.8
+"Assassination Nation","Thriller","Bron Studios","USA",108,18,2018,13,6.0
+"Still/Born","Horrors","Bron Studios","Canada",87,16,2018,6,5.4
+"Hagazussa","Horrors","Warner Brothers Pictures","Germany",102,18,2018,20,5.9
+"Dead in a Week Or Your Money Back","Comedy","Good Films Collective","United Kingdom",90,12,2018,6,6.3
+"Colette","Drama","Lion's Gate Films","United Kingdom",111,16,2018,27,6.7
+"Zimna wojna","Drama","Film i Väst","Poland",84,16,2018,6,7.6
+"Dragged Across Concrete","Crime","Thefyzz","USA",159,16,2018,13,6.9
+"Ben is Back","Drama","Black Bear Pictures","USA",103,16,2018,13,6.7
+"The Hole in the Ground","Horrors","Mirror Productions","Ireland",100,16,2018,20,5.7
+"Piercing","Thriller","Sony Pictures Entertainment","USA",81,18,2018,6,5.6
+"Racetime","Cartoon","Bron Studios","Canada",87,0,2018,13,5.6
+"The School","Horrors","Bron Studios","USA",87,16,2018,13,3.9
+"Bilal A New Breed of Hero","Adventure","Foresight","OAU",105,0,2018,6,7.8
+"Hurvinek a kouzelne muzeum","Cartoon","Silver Screen","Czech",86,0,2018,13,3.9
+"Welcome Home","Thriller","Voltage Pictures","USA",97,16,2018,27,5.2
+"Backtrace","Drama","Bron Studios","Canada",96,12,2018,13,3.8
+"He's Out There","Horrors","Screen Gems","USA",86,16,2018,6,5.3
+"Ritter Rost 2 Das Schrottkomplott","Comedy","Warner Brothers Pictures","Germany",87,0,2018,13,5.7
+"Miss Sloane","Thriller","FilmNation Entertainment","USA",132,16,2018,20,7.5
+"Three Seconds","Drama","Thunder Road Pictures","United Kingdom",100,16,2019,27,6.6
+"On the Basis of Sex","Drama","Focus Features","USA",100,16,2018,27,7.1
+"The Front Runner","Biographical","Sony Pictures Entertainment","USA",113,12,2018,27,6.1
+"The Mule","Thriller","Warner Brothers Pictures","USA",116,16,2018,34,7.0
+"Astérix Le secret de la potion magique","Cartoon","M6 Films","France",85,0,2019,34,6.7
+"Upgrade","Action","Automatik Entertainment","USA",100,16,2018,6,7.5
+"Tabaluga","Cartoon","Dor Film Produktionsgesellschaft","Germany",85,0,2018,13,5.3
+"The Perception","Thriller","Marro Films","USA",80,16,2018,6,4.7
+"At Eternity's Gate","Biographical","Riverstone Pictures","United Kingdom",110,16,2019,20,6.9
+"High life","Adventure","Canal+","United Kingdom",110,18,2018,13,5.8
+"Ad Astra","Fantasy","20th Century Fox","USA",123,12,2019,34,6.5
+"Aladdin","Fantasy","Walt Disney Pictures","USA",128,0,2019,55,6.9
+"The Possession of Hannah Grace","Horrors","Sony Pictures Entertainment","USA",87,16,2018,13,5.2
+"Rocketman","Fantasy","Paramount Pictures","USA",118,16,2019,24,7.3
+"Joker","Action","Warner Brothers Pictures","USA",122,16,2018,13,8.4
+"Second act","Comedy","Odd Lot Entertainment","USA",103,12,2018,34,5.8
+"Maria by Callas","Documentary","Elephant Doc","France",113,16,2018,20,7.2
+"My Generation","Documentary","20th Century Fox","United Kingdom",85,12,2018,13,7.1
+"Under the Silver Lake","Drama","20th Century Fox","USA",139,16,2018,13,6.5
+"Dumplin'","Comedy","Echo Films","USA",110,0,2018,13,6.6
+"Monster Island","Cartoon","Pathé","India",80,0,2017,6,4.8
+"The Upside","Comedy","STX Entertainment","USA",125,12,2019,20,7.0
+"Astral","Horrors","Vertical Entertainment","United Kingdom",83,16,2018,13,4.8
+"Beast","Thriller","Vanishing Angle","United Kingdom",107,12,2017,27,6.8
+"An Interview with God","Drama","Big Indie Pictures","USA",97,12,2018,27,5.8
+"Instant Family","Comedy","Paramount Pictures","USA",118,12,2018,62,7.3
+"Happy Death Day 2U","Horrors","Universal Pictures","USA",100,16,2018,28,6.2
+"Swoon","Melodrama","Roy Andersson Filmproduktion AB","Sweden",104,16,2018,13,5.8
+"En liberté!","Comedy","Les Films Pelléas","France",107,16,2018,6,6.2
+"Cold Pursuit","Crime","Summit Entertainment","United Kingdom",118,16,2019,20,6.2
+"Madonna and the Breakfast Club","Documentary","Universal Pictures","USA",105,12,2018,6,6.5
+"Transit","Drama","Warner Brothers Pictures","Germany",91,12,2018,13,6.9
+"Vice","Drama","Mirror Productions","USA",132,16,2018,41,7.2
+"Curiosa","Melodrama","Vertigo Média","France",107,16,2018,27,5.4
+"The Queen's Corgi","Animation","Les Films Pelléas","Belgium",92,0,2018,20,4.8
+"The Informer","Crime","Thefyzz","United Kingdom",113,16,2019,6,6.6
+"Pet Sematary","Horrors","Paramount Pictures","USA",101,16,2019,213,5.7
+"The Secret Life of Pets 2","Adventure","Universal Pictures","USA",86,0,2018,116,6.5
+"Spies in Disguise","Animation","20th Century Fox","USA",102,0,2019,56,6.8
+"Artemis Fowl","Adventure","Walt Disney Pictures","USA",91,0,2018,27,4.2
+"BrightBurn","Horrors","Sony Pictures Entertainment","USA",90,16,2019,20,6.1
+"The Prodigy","Horrors","Orion Pictures","USA",92,16,2019,6,5.9
+"Men in Black International","Adventure","Sony Pictures Entertainment","USA",115,12,2019,6,5.6
+"100 Things","Comedy","Warner Brothers Pictures","Germany",110,12,2019,20,6.4
+"The Witch in the Window","Horrors","Film Seekers","USA",77,18,2018,27,5.8
+"The Fall Of The American Empire","Comedy","Bron Studios","Canada",127,16,2018,13,6.8
+"Schindler's List","Historical","Universal Pictures","USA",197,16,1993,6,8.9
+"Rambo Last Blood","Action","Lion's Gate Films","USA",100,16,2019,20,6.1
+"Frozen II","Family","Walt Disney Pictures","USA",103,0,2019,62,6.8
+"Spider-Man Far From Home","Fantasy","Sony Pictures Entertainment","USA",129,12,2019,6,7.4
+"Once Upon a Time in... Hollywood","Thriller","Sony Pictures Entertainment","USA",161,16,2019,6,7.6
+"Our Happy Holiday","Comedy","The Film","France",102,16,2018,13,6.0
+"Minuscule - Mandibles From Far Away","Adventure","France 3 Cinema","France",92,0,2019,20,6.8
+"Squadron 303","Military","Film i Väst","Poland",104,12,2018,6,5.7
+"Elizabeth Harvest","Thriller","Automatik Entertainment","USA",105,16,2018,13,5.8
+"Milf","Comedy","Studio Canal","France",96,16,2018,6,4.7
+"Us","Thriller","Monkey Pack Films","USA",117,16,2019,6,6.8
+"Askeladden - I Soria Moria slott","Fantasy","Maipo Film","Norway",99,12,2019,6,6.3
+"Green Book","Drama","DreamWorks Animation","USA",130,12,2018,6,8.2
+"Braid","Thriller","Blue Fox Entertainment","USA",82,16,2019,13,5.3
+"Then Came You","Drama","Marro Films","USA",97,12,2019,6,7.0
+"Welcome to Acapulco","Comedy","Cinema Management Group",Bulgaria,88,16,2019,13,4.2
+"Timm Thaler oder das verkaufte Lachen","Comedy","Warner Brothers Pictures","Germany",110,0,2019,20,6.1
+"Tofu","Adventure","Lion's Gate Films","China",85,0,2017,27,6.4
+"Goldfinch","Drama","Warner Brothers Pictures","USA",150,16,2019,13,6.4
+"Alad'2","Comedy","M6 Films","France",98,12,2019,13,3.6
+"Sen to Chihiro no kamikakushi","Animation","Ghibli","Japan",125,0,2002,13,8.6
+"Captive State","Thriller","Lion's Gate Films","USA",109,16,2019,13,6.0
+"The Kid","Western","Lion's Gate Films","USA",100,16,2019,6,5.9
+"A Dog's Journey","Adventure","Universal Pictures","USA",109,0,2019,34,7.5
+"Zombieland Double Tap","Horrors","Columbia Pictures","USA",99,16,2019,34,6.7
+"The Art of Racing in the Rain","Comedy","20th Century Fox","USA",108,0,2019,27,7.6
+"Fast & Furious Presents Hobbs & Shaw","Adventure","Universal Pictures","USA",136,12,2019,20,6.5
+"The Great Gatsby","Drama","Warner Brothers Pictures","USA",143,16,2013,27,7.2
+"Domino","Thriller","Backup Media","Denmark",89,16,2019,6,4.4
+"Angel Has Fallen","Action","Millennium Films","USA",122,16,2018,27,6.4
+"Red Joan","Biographical","Lion's Gate Films","United Kingdom",101,16,2018,20,6.4
+"Gaspard va au mariage","Comedy","Artémis Productions","France",103,16,2017,13,6.1
+"L'homme fidele","Melodrama","Canal+","France",75,16,2018,6,6.2
+"St. Agatha","Horrors","Twisted Pictures","USA",98,16,2018,13,4.9
+"Mia and the white lion","Drama","M6 Films","France",98,0,2018,27,6.5
+"Amanda","Drama","Arte France Cinéma","France",107,12,2018,6,7.0
+"Un peuple et son roi","Drama","Studio Canal","France",121,16,2018,20,5.9
+"Doctor Sleep","Thriller","Warner Brothers Pictures","USA",150,18,2019,27,7.3
+"The Hustle","Comedy","Universal Pictures","USA",94,16,2019,27,5.4
+"Yesterday","Comedy","Universal Pictures","United Kingdom",116,12,2019,27,6.8
+"Beautiful Boy","Biographical","Paramount Pictures","Japan",120,16,2019,2,7.3
+"Kaze no tani no Naushika","Animation","Studio Ghibli","Japan",118,0,1984,6,8.1
+"Nicky Larson et le parfum de Cupidon","Crime","Les Films du Poisson","France",91,16,2019,13,6.5
+"Five Feet Apart","Drama","Lion's Gate Films","USA",116,12,2019,25,7.2
+"Arctic Justice","Family","Ambience Entertainment","United Kingdom",91,0,2018,20,4.7
+"After","Drama","Voltage Pictures","USA",105,12,2019,27,5.3
+"Antonio Lopez 1970 Sex Fashion Disco","Documentary","Summitridge Pictures","USA",95,16,2017,20,6.8
+"The Angry Birds Movie 2","Adventure","Sony Pictures Entertainment","Finland",97,0,2019,41,6.4
+"Charlie's Angels","Comedy","Sony Pictures Entertainment","USA",118,12,2019,27,4.9
+"Gemini Man","Fantasy","Paramount Pictures","USA",117,12,2019,34,5.7
+"Abominable","Adventure","Universal Pictures","USA",97,0,2019,13,7.0
+"Dora and the lost city of gold","Fantasy","Paramount Pictures","Australia",102,0,2019,41,6.1
+"Beautiful Boy","Drama","Plan B Entertainment","USA",120,16,2019,6,7.3
+"The Beach Bum","Comedy","Riverstone Pictures","USA",95,18,2019,13,5.5
+"Missing Link","Adventure","AGC Studios","USA",94,0,2019,27,6.7
+"Grâce à Dieu","Drama","France 3 Cinéma","France",137,16,2018,6,7.2
+"Hole in the Ground","Horrors","Mirror Productions","Ireland",90,18,2018,13,5.7
+"Pyewacket","Thriller","Bron Studios","Canada",90,18,2017,27,5.8
+"Abgeschnitten","Detective","Warner Brothers Pictures","Germany",132,16,2018,27,6.5
+"The Big Trip","Cartoon","Licensing Brands","USA",85,0,2019,20,5.1
+"Vita & Virginia","Melodrama","Mirror Productions","Ireland",110,16,2019,6,5.8
+"Terra Willy Planète inconnue","Animation","TF1","France",90,0,2019,6,6.6
+"Une jeunesse dorée","Melodrama","Macassar Productions","France",118,16,2019,20,5.0
+"Richard Says Goodbye","Drama","Global Road Entertainment","USA",90,16,2019,20,6.7
+"Rémi sans famille","Adventure","TF1","France",108,0,2018,6,7.1
+"Ma","Thriller","Universal Pictures","USA",99,16,2019,13,5.6
+"Child's Play","Horrors","Orion Pictures","USA",90,18,2019,13,5.7
+"Just a gigolo","Comedy","TF1","France",94,12,2019,20,5.5
+"Annabelle Comes Home","Horrors","Warner Brothers Pictures","USA",95,16,2019,41,5.9
+"Dernier amour","Melodrama","Les Films du Poisson","France",98,16,2019,6,4.9
+"Princess Emmy","Cartoon","Warner Brothers Pictures","Germany",75,0,2019,6,6.2
+"Dronningen","Drama","Nordisk Film Production","Denmark",127,18,2019,6,7.1
+"Ford vs Ferrari","Drama","20th Century Fox","USA",152,12,2019,115,8.1
+"Good Boys","Comedy","Universal Pictures","USA",90,16,2019,41,6.7
+"Play or Die","Horrors","Les Films Pelléas","Belgium",90,16,2019,13,3.7
+"Poms","Comedy","Entertainment One","United Kingdom",90,12,2019,13,6.1
+"Let's Dance","Romance","Pathé","France",107,12,2019,6,6.0
+"Stockholm","Comedy","Bron Studios","Canada",92,16,2018,13,6.1
+"Edmond","Drama","Fabrique","USA",110,18,2019,27,7.3
+"The Poison Rose","Detective","Lion's Gate Films","Italy",99,16,2019,13,4.7
+"KuToppen","Animation","Qvisten Animation","Norway",66,0,2018,6,5.4
+"Dolor y gloria","Drama","El Deseo S.A.","Spain",113,16,2019,13,7.5
+"Wolf's call","Drama","Pathé","France",115,16,2019,6,6.9
+"Stuber","Comedy","20th Century Fox","USA",93,16,2019,27,6.2
+"La paranza dei bambini","Thriller","Lion's Gate Films","Italy",105,16,2019,6,6.4
+"Game of Thrones","Fantasy","Warner Brothers Pictures","USA",80,16,2019,20,9.2
+"Rise of the Superheroes","Documentary","Symmettrica Entertainment","United Kingdom",117,12,2018,20,6.5
+"Doubles vies","Drama","Vertigo Média","France",108,12,2019,6,6.4
+"The Hollow Child","Horrors","Bron Studios","Canada",88,18,2019,27,4.8
+"Belzebuth","Horrors","Anima Estudios","Mexico",115,16,2017,20,6.0
+"The Corrupted","Crime","Riverstone Pictures","United Kingdom",103,16,2019,13,5.7
+"A Dark Song","Horrors","IFC Films","United Kingdom",99,16,2016,20,6.2
+"Long Shot","Comedy","Summit Entertainment","USA",125,16,2019,27,6.8
+"Terminator Dark Fate","Action","Paramount Pictures","USA",122,16,2019,34,6.2
+"The Addams Family","Comedy","Universal Pictures","USA",87,0,2019,48,5.8
+"My Spy","Family","Odd Lot Entertainment","USA",99,12,2020,41,6.4
+"Crawl","Thriller","Paramount Pictures","USA",87,16,2019,27,6.1
+"Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)","Crime","Warner Brothers Pictures","USA",109,18,2019,34,6.1
+"Manou the Swift","Animation","LUXX Film","Germany",88,0,2019,13,5.5
+"Anna","Action","EuropaCorp","France",119,16,2019,41,6.7
+"All Is True","Historical","Sony Pictures Entertainment","United Kingdom",101,16,2019,20,6.3
+"Van Gogh & Japan","Documentary","7 Art Productions","United Kingdom",87,12,2019,38,7.6
+"Angelo","Drama","Inspiring Films","Austria",110,12,2019,13,6.0
+"もののけ姫","Animation","Studio Ghibli","Japan",134,0,1997,2,8.4
+"I Am Mother","Fantasy","The Penguin Empire","Australia",115,12,2019,13,6.7
+"La promesse de l'aube","Melodrama","Pathé","France",131,16,2017,27,7.2
+"Ibiza","Comedy","Gaumont Film Company","France",86,16,2019,13,5.0
+"21 Bridges","Thriller","STX Entertainment","USA",103,16,2019,27,6.6
+"Zoo","Family","Mirror Productions","Ireland",97,0,2017,13,6.6
+"Midsommar","Horrors","B-Reel Films","USA",147,18,2019,13,7.1
+"The Kitchen","Thriller","Warner Brothers Pictures","USA",106,16,2019,13,5.5
+"Angel of Mine","Thriller","Lion's Gate Films","USA",98,16,2019,6,6.4
+"Corporate Animals","Comedy","Pacific Electric Picture Company","USA",116,16,2019,6,4.3
+"Maleficent Mistress of Evil","Fantasy","Walt Disney Pictures","USA",118,12,2019,20,6.6
+"Made in Italy","Drama","Ingenious Media","Italy",100,16,2018,20,5.8
+"CRANSTON ACADEMY MONSTER ZONE","Animation","Anima Estudios","Mexico",80,0,2020,20,5.3
+"Killers Anonymous","Crime","Lion's Gate Films","United Kingdom",90,16,2019,13,4.4
+"Hotel Mumbai","Drama","Thunder Road Pictures","USA",123,16,2018,34,7.6
+"Lying and Stealing","Crime","Voltage Pictures","USA",100,16,2019,20,5.4
+"Purge of Kingdoms","Comedy","Conglomerate Media","USA",85,16,2019,13,2.3
+"L'Empereur de Paris","Historical","Gaumont Film Company","France",110,16,2018,13,6.3
+"Playmobil The Movie","Comedy","Global Road Entertainment","France",99,0,2019,13,4.8
+"Teen Spirit","Drama","Automatik Entertainment","United Kingdom",93,12,2018,13,6.1
+"Escape Plan The Extractors","Action","Lion's Gate Films","USA",97,16,2019,13,4.4
+"Trouble","Animation","Bron Studios","Canada",87,0,2019,34,5.8
+"In Fabric","Horrors","BBC Films","United Kingdom",118,18,2019,13,6.2
+"THE WOLF OF SNOW HOLLOW","Horrors","Vanishing Angle","USA",83,16,2020,13,6.2
+"Plus One","Comedy","Red Hour Films","USA",99,16,2019,6,6.6
+"Povodir","Military","Universal Pictures","Ukraine",120,16,2014,27,7.8
+"Motherless Brooklyn","Drama","Warner Brothers Pictures","USA",144,16,2019,20,6.8
+"The Wedding Year","Comedy","Motion Picture Capital","USA",92,16,2019,6,5.6
+"Superintelligence","Comedy","Warner Brothers Pictures","USA",106,0,2020,20,5.4
+"Les traducteurs","Thriller","Les Productions du Trésor","France",105,12,2019,20,6.5
+"Underwater","Horrors","20th Century Fox","USA",95,16,2019,20,5.8
+"Onward","Animation","Walt Disney Pictures","USA",103,0,2020,27,7.4
+"Berlin","Drama","Warner Brothers Pictures","Germany",120,16,2019,6,4.6
+"Norm of the North King Sized Adventure","Animation","Splash Entertainment","USA",90,0,2019,13,3.2
+"Gisaengchung","Thriller","Barunson E&A","South Korea",131,16,2019,6,8.6
+"Step Up Year of the Dance","Drama","Lion's Gate Films","China",90,12,2019,13,3.7
+"Apollo 11","Documentary","Universal Pictures","USA",93,12,2019,13,8.2
+"The Good Liar","Drama","Warner Brothers Pictures","USA",110,16,2019,13,6.7
+"A Score to Settle","Drama","Saturn Films","USA",103,16,2019,13,4.7
+"Ready or Not","Horrors","20th Century Fox","USA",95,16,2019,34,6.9
+"Scary Stories to tell in the dark","Horrors","Entertainment One","USA",108,16,2019,20,6.2
+"Ophelia","Drama","Marro Films","USA",106,12,2018,6,6.6
+"The Death and Life of John F. Donovan","Drama","Warp Films","United Kingdom",123,16,2018,13,6.2
+"Mulan","Fantasy","Marro Films","USA",115,12,2020,177,5.7
+"The Matrix","Fantasy","Warner Brothers Pictures","USA",144,16,1999,6,8.7
+"Antlers","Horrors","Searchlight","USA",99,16,2021,27,6.3
+"Untouchable","Documentary","Lightbox","USA",98,16,2019,6,6.8
+"Nekrotronic","Comedy","Entertainment One","Australia",99,18,2019,6,5.6
+"Zeroville","Drama","RabbitBandini Productions","USA",96,16,2019,6,4.6
+"Official Secrets","Drama","Ingenious Media","USA",112,16,2019,13,7.3
+"Playing with Fire","Comedy","Paramount Pictures","USA",96,0,2019,27,5.1
+"The Room","Detective","Les Films du Poisson","France",103,16,2019,20,6.0
+"After the Wedding","Drama","Riverstone Pictures","USA",111,12,2019,6,6.3
+"Running with the Devil","Crime","Saturn Films","USA",95,18,2019,13,5.4
+"Judy","Biographical","Pathé","United Kingdom",115,16,2019,6,6.8
+"The Voyage of Doctor Dolittle","Family","Universal Pictures","USA",101,0,2020,27,5.6
+"BOND 25 NO TIME TO DIE","Adventure","Universal Pictures","USA",163,12,2021,69,7.4
+"Monster Hunter","Action","Sony Pictures Entertainment","USA",104,12,2020,34,5.3
+"Cinderella and the Secret Prince","Fantasy","Gold Valley Films","USA",90,0,2018,27,4.7
+"Capital in the Twenty-First Century","Documentary","General Film Corporation","France",103,0,2019,27,7.5
+"Evge","Drama","Universal Pictures","Ukraine",96,12,2019,7,7.4
+"Turu","Animation","Brown Films AIE","Spain",80,0,2019,20,5.1
+"Midway","Action","AGC Studios","USA",137,12,2019,20,6.7
+"The Croods 2","Animation","DreamWorks Animation","USA",95,0,2020,6,7.0
+"THE CONJURING THE DEVIL MADE ME DO IT","Horrors","Warner Brothers Pictures","USA",112,16,2021,20,6.3
+"Hustlers","Comedy","STX Entertainment","USA",110,16,2019,34,6.3
+"The Eternals","Action","Marvel Studios","USA",158,12,2021,35,6.8
+"Venom Let There Be Carnage","Fantasy","Sony Pictures Entertainment","USA",98,16,2021,54,6.1
+"Black Widow","Fantasy","Marvel Studios","USA",134,16,2021,42,6.7
+"Gospod postoi","Drama","GO Production","Northern Macedonia",100,16,2019,13,6.8
+"Un homme presse","Comedy","Gaumont Film Company","France",100,12,2019,6,6.3
+"Red Shoes and the Seven Dwarfs","Animation","Locus Creative Studios","South Korea",92,0,2019,20,6.4
+"Knives Out","Comedy","FilmNation Entertainment","USA",131,12,2019,67,7.9
+"Little Women","Melodrama","Columbia Pictures","USA",135,0,2019,34,7.8
+"Call of the Wild","Adventure","20th Century Fox","USA",100,0,2019,27,6.8
+"Bloodshot","Fantasy","Sony Pictures Entertainment","USA",109,16,2019,27,5.7
+"Cats","Fantasy","Universal Pictures","USA",109,0,2019,13,2.7
+"A Quiet Place Part II","Thriller","Paramount Pictures","USA",97,16,2021,96,7.3
+"Trolls World Tour","Animation","DreamWorks Animation","USA",91,0,2020,49,6.1
+"Greyhound","Drama","Sony Pictures Entertainment","USA",91,12,2020,13,7.0
+"Ghostbusters From Beyond","Fantasy","Sony Pictures Entertainment","USA",120,12,2021,27,7.7
+"Bill & Ted Face the Music","Comedy","Orion Pictures","USA",91,12,2020,20,6.0
+"THE BOSS BABY FAMILY BUSINESS","Animation","DreamWorks Animation","USA",107,0,2021,15,5.9
+"SHANG CHI AND THE LEGEND OF THE TEN RINGS","Fantasy","Walt Disney Pictures","USA",132,12,2021,79,7.6
+"Yao","Drama","Canal+","France",103,16,2018,27,6.4
+"Beats","Comedy","Global Road Entertainment","United Kingdom",101,18,2019,27,7.1
+"Untouchable","Documentary","Lightbox","United Kingdom",98,16,2019,6,6.8
+"Celebration","Documentary","Hold Up Films","France",74,12,2007,2,6.5
+"Can You Keep a Secret?","Comedy","Big Indie Pictures","USA",94,12,2019,13,5.3
+"Light of My Life","Drama","Black Bear Pictures","USA",119,16,2019,6,6.6
+"Une fille facile","Melodrama","Les Productions du Trésor","France",92,16,2019,6,5.6
+"Paradise Hills","Fantasy","Brown Films AIE","Spain",95,12,2019,13,5.4
+"The Game Changers","Documentary","ReFuel Productions","USA",117,16,2019,7,7.9
+"Nomis","Thriller","Buffalo 8 Productions","USA",98,16,2019,6,5.9
+"The Peanut Butter Falcon","Adventure","Armory Films","USA",93,12,2019,6,7.6
+"The Hummingbird Project","Drama","Bron Studios","Canada",111,16,2018,6,6.2
+"Mary","Horrors","RLJE Films","USA",85,16,2019,6,4.4
+"The Prado Museum. A Collection of Wonders","Documentary","Lion's Gate Films","Italy",90,12,2019,20,7.1
+"Cold Blood","Thriller","Universal Pictures","Ukraine",92,16,2019,6,4.6
+"Greener Grass","Comedy","Vanishing Angle","USA",101,12,2019,6,6.4
+"Weathering with You","Animation","Kadokawa Pictures","Japan",118,12,2019,6,7.5
+"Valhalla","Fantasy","Nordisk Film Production","USA",105,12,2019,13,5.3
+"The Aeronauts","Adventure","FilmNation Entertainment","United Kingdom",100,12,2019,13,6.6
+"Mosley","Animation","Huhu Studios","New Zealand",97,0,2019,13,6.5
+"Bombshell","Drama","Bron Studios","Canada",108,16,2019,20,6.8
+"Empty Man","Crime","20th Century Fox","USA",102,16,2020,13,6.1
+"Everybody's Talking About Jamie","Musical","20th Century Fox","United Kingdom",154,16,2019,20,7.8
+"Just Mercy","Drama","Warner Brothers Pictures","USA",136,16,2019,20,7.6
+"Last Christmas","Romance","Universal Pictures","United Kingdom",103,12,2019,20,6.5
+"#jesuislà","Comedy","Gaumont Film Company","France",98,12,2020,6,5.9
+"Canova","Documentary","Lion's Gate Films","Italy",96,12,2019,6,7.2
+"One Man","Performance","FilmNation Entertainment","United Kingdom",183,16,2011,13,8.1
+"Palladio. The Power of Architecture","Documentary","Lion's Gate Films","Italy",98,12,2019,13,6.2
+"British Museum presents Hokusai","Documentary","BBC Films","United Kingdom",87,12,2017,6,7.6
+"Werk ohne Autor","Drama","Warner Brothers Pictures","Germany",189,16,2018,27,7.8
+"Scoob!","Animation","Warner Brothers Pictures","USA",102,0,2019,6,5.7
+"Bayala","Adventure","Fabrique","Germany",84,0,2019,13,4.8
+"La Belle Époque","Comedy","Gaumont Film Company","France",115,16,2019,43,7.4
+"Black Christmas","Horrors","Universal Pictures","USA",94,16,2019,13,3.4
+"Polaroid","Thriller","Orion Pictures","Canada",88,16,2019,13,5.1
+"Countdown","Thriller","STX Entertainment","USA",90,16,2019,20,5.4
+"Озеро диких гусей","Crime","Green Ray Films","China",110,16,2019,13,6.8
+"Witches in the Woods","Horrors","Bron Studios","Canada",90,16,2019,20,4.3
+"Troll The tale of tale","Animation","Blue Fox Entertainment","Canada",90,0,2019,14,5.1
+"Traumfabrik","Comedy","Traumfabrik Babelsberg","Germany",103,12,2019,6,6.6
+"Little Joe","Fantasy","BondIt Media Capital","Austria",100,12,2019,6,5.9
+"Peter Rabbit 2","Adventure","Sony Pictures Entertainment","Australia",93,0,2020,41,6.2
+"Dolittle","Adventure","Universal Pictures","USA",101,0,2019,49,5.6
+"Jojo Rabbit","Comedy","20th Century Fox","USA",108,12,2019,20,7.9
+"Dem Horizont so nah","Romance","Warner Brothers Pictures","Germany",109,16,2019,13,6.7
+"Richard Jewell","Detective","Warner Brothers Pictures","USA",131,12,2019,13,7.5
+"The Courier","Crime","42","USA",99,16,2019,13,4.9
+"Soul","Animation","Walt Disney Pictures","USA",107,0,2020,27,8.1
+"JUNGLE CRUISE","Adventure","Walt Disney Pictures","USA",128,16,2021,55,6.6
+"ESCAPE ROOM 2","Thriller","Sony Pictures Entertainment","USA",88,16,2021,34,5.8
+"Blade Runner 1982","Action","Warner Brothers Pictures","USA",117,16,1982,6,8.1
+"My Thoughts Are Silent","Comedy","Universal Pictures","Ukraine",104,12,2019,20,8.0
+"L'uomo del labirinto","Thriller","Lion's Gate Films","Italy",130,16,2019,6,5.7
+"The Grudge","Horrors","Sony Pictures Entertainment","USA",94,16,2020,6,4.3
+"The Matrix Reloaded","Fantasy","Warner Brothers Pictures","USA",138,16,2003,6,7.2
+"The Matrix Revolutions","Fantasy","Warner Brothers Pictures","USA",129,16,2003,6,6.8
+"And Then We Danced","Romance","ESX Entertainment","Georgia",105,16,2019,27,7.7
+"Deux moi","Comedy","Studio Canal","France",110,12,2019,13,6.6
+"Free Guy","Comedy","20th Century Fox","USA",115,12,2021,62,7.2
+"The Donkey King","Adventure","Talisman Animations","USA",106,0,2019,13,6.5
+"The Assent","Thriller","Boom Done Productions","USA",88,16,2019,6,4.1
+"A Beautiful Day in the Neighborhood","Drama","Sony Pictures Entertainment","USA",108,16,2019,27,7.3
+"Gretel and Hansel","Thriller","Orion Pictures","USA",87,16,2019,13,5.4
+"The Invisible Man","Thriller","Universal Pictures","USA",125,16,2019,6,7.1
+"Portrait de la jeune fille en feu","Historical","Arte France Cinéma","France",120,16,2019,20,8.1
+"CRUELLA","Comedy","Walt Disney Pictures","USA",133,12,2021,132,7.4
+"Fantasy Island","Thriller","Sony Pictures Entertainment","USA",109,16,2019,27,4.9
+"Like a boss","Comedy","Paramount Pictures","USA",84,16,2019,20,4.6
+"Shaun the Sheep Movie Farmageddon","Animation","EuropaCorp","USA",86,0,2019,20,6.8
+"The Secret Garden","Family","Studio Canal","United Kingdom",100,0,2020,27,5.6
+"Diego Maradona","Sport","Film4","United Kingdom",130,16,2019,3,7.7
+"The SpongeBob Movie Sponge on the Run","Animation","Nickelodeon Movies","USA",130,0,2020,13,6.0
+"The One and Only Ivan","Animation","Walt Disney Pictures","USA",107,0,2020,6,6.6
+"Vic the Viking","Family","Studio 100 Films","USA",80,0,2019,13,5.2
+"Infinite","Fantasy","Paramount Pictures","USA",111,16,2021,6,5.5
+"Clifford the Big Red Dog","Family","Paramount Pictures","USA",99,0,2021,13,6.0
+"Tom and Jerry","Animation","Warner Brothers Pictures","USA",101,0,2021,13,5.3
+"Dune","Adventure","Warner Brothers Pictures","USA",155,12,2021,34,8.2
+"Brahms The Boy II","Thriller","Lakeshore Entertainment","USA",99,16,2019,13,4.7
+"Tenet","Action","Warner Brothers Pictures","USA",150,16,2020,98,7.4
+"Raya and the Last Dragon","Animation","Walt Disney Pictures","USA",114,0,2021,20,7.4
+"Seberg","Biographical","Automatik Entertainment","France",96,16,2019,6,5.8
+"ATLANTIS","Drama","Universal Pictures","Ukraine",108,16,2019,1,6.7
+"Emma","Drama","Universal Pictures","United Kingdom",125,0,2019,13,6.7
+"Jumanji The Next Level","Adventure","Columbia Pictures","USA",123,12,2019,20,6.7
+"100% Wolf","Animation","Paramount Pictures","Australia",96,0,2021,34,5.7
+"BIOS","Fantasy","Universal Pictures","USA",115,16,2020,13,6.9
+"Snake Eyes G.I. Joe Origins","Adventure","Paramount Pictures","USA",102,16,2019,27,5.4
+"The Last Duel","Drama","20th Century Fox","USA",153,16,2021,41,7.6
+"The Witches","Fantasy","Warner Brothers Pictures","USA",106,16,2020,27,5.3
+"Antebellum","Horrors","Lion's Gate Films","USA",105,16,2020,6,5.7
+"FAST & THE FURIOUS 9","Crime","Universal Pictures","USA",143,12,2019,96,5.2
+"Guns Akimbo","Action","Ingenious Media","USA",97,18,2019,6,6.3
+"In the Heights","Drama","Warner Brothers Pictures","USA",143,12,2019,20,7.4
+"True History of the Kelly Gang","Biographical","Film4","United Kingdom",124,18,2019,20,6.0
+"Побачення у Вегасі","Comedy","GO Production","Ukraine",91,0,2019,13,5.7
+"Pinocchio","Fantasy","Rai Cinema","Italy",124,0,2019,6,6.2
+"A Mermaid in Paris","Fantasy","EuropaCorp","France",102,12,2020,20,5.6
+"Lassie Come Home","Family","Warner Brothers Pictures","Germany",100,0,2020,27,5.7
+"After We Collided","Melodrama","Voltage Pictures","USA",120,16,2020,6,5.2
+"Hors normes","Melodrama","Gaumont Film Company","France",114,12,2019,13,7.4
+"My Stupid Dog","Comedy","Studio Canal","France",106,12,2019,13,6.2
+"Docteur?","Comedy","France 3 Cinéma","France",90,12,2019,13,6.4
+"Tunnelen","Thriller","Nordisk Film Production","Norway",105,12,2019,27,6.1
+"Lucky Day","Action","Lion's Gate Films","France",99,16,2019,27,5.1
+"The Wishmas Tree","Animation","Like A Photon Creative","Australia",97,0,2020,27,5.0
+"An Officer and a Spy","Military","Légende","France",132,12,2020,6,7.2
+"Kill Chain","Thriller","Millennium Films","Canada",91,16,2019,6,5.0
+"The Personal History of David Copperfield","Adventure","FilmNation Entertainment","United Kingdom",119,12,2020,27,6.4
+"SamSam","Family","Studio Canal","France",77,0,2020,20,5.1
+"Ji xian feng","Action","China Film (Shanghai) International Media Co.","China",108,12,2020,27,4.7
+"Vivarium","Fantasy","XYZ Films","Ireland",97,16,2019,20,5.8
+"Escape from Pretoria","Thriller","Screen Australia","United Kingdom",103,16,2020,34,6.8
+"Le lion","Comedy","Monkey Pack Films","France",95,16,2020,20,5.4
+"Captain Sabertooth and the Magic Diamond","Animation","Qvisten Animation","Norway",81,0,2019,27,6.0
+"Chambre 212","Romance","Les Films du Poisson","France",86,18,2019,6,6.0
+"Zombi Child","Fantasy","Les Films du Poisson","France",103,18,2019,27,6.0
+"Notre Dame","Romance","France 3 Cinéma","France",88,16,2019,20,5.2
+"Om det oändliga","Drama","Roy Andersson Filmproduktion AB","Sweden",78,16,2019,6,6.9
+"Malignant","Thriller","Warner Brothers Pictures","USA",112,18,2021,13,6.3
+"Promising Young Woman","Thriller","Focus Features","USA",113,16,2020,20,7.5
+"Spiral From the Book of Saw","Horrors","Twisted Pictures","USA",102,18,2021,13,5.3
+"The Secret Dare to Dream","Drama","Lion's Gate Films","USA",98,12,2020,20,6.5
+"Night shift","Crime","Studio Canal","France",98,16,2020,13,5.3
+"The Postcard Killings","Thriller","Good Films Collective","USA",93,16,2020,27,5.8
+"Nabarvené ptáče","Drama","Silver Screen","Czech",169,18,2019,6,7.4
+"CONNECTED","Cartoon","Sony Pictures Entertainment","USA",120,0,2020,27,7.7
+"Candyman","Thriller","Universal Pictures","USA",91,16,2021,20,5.9
+"The Green Knight","Fantasy","Bron Studios","USA",130,16,2021,13,6.6
+"TURU","Cartoon","Argentina Sono Film S.A.C.I.","Spain",90,0,2019,20,5.1
+"THE HITMAN'S WIFE'S BODYGUARD","Action","Millennium Films","USA",116,16,2021,90,6.1
+"Think Like a Dog","Comedy","Lion's Gate Films","USA",91,12,2020,27,5.2
+"Tesla","Drama","Sony Pictures Entertainment","USA",96,12,2020,6,5.0
+"The Cleansing Hour","Horrors","Skubalon","USA",94,16,2019,20,6.0
+"Honest Thief","Action","Ingenious Media","USA",99,16,2020,27,6.0
+"BLACKBIRD","Drama","Millennium Films","USA",97,16,2019,13,6.6
+"Dreambuilders","Cartoon","First Lady Film","Denmark",81,0,2020,40,6.1
+"UNHINGED","Thriller","Ingenious Media","USA",91,16,2020,27,6.0
+"Ava","Action","Voltage Pictures","USA",96,16,2020,27,5.4
+"Bigfoot Family","Cartoon","nWave Pictures","France",88,0,2020,39,5.8
+"Dragon Rider","Adventure","Constantin Film","Germany",91,0,2020,55,5.7
+"CAMPEONES","Tragedy","Studio Canal","Spain",124,12,2018,6,7.3
+"Storm Boy","Drama","Ambience Entertainment","Australia",99,0,2019,20,6.9
+"Ron`s Gon Wrong","Cartoon","20th Century Fox","USA",107,0,2020,6,7.2
+"TWIST","Adventure","Sky Cinema","United Kingdom",88,12,2021,13,4.1
+"Antebellum","Horrors","Lion's Gate Films","USA",105,16,2020,20,5.7
+"Озеро диких гусей","Crime","Green Ray Films","China",110,18,2020,13,6.8
+"HALLOWEEN KILLS","Horrors","Universal Pictures","USA",120,18,2021,20,5.7
+"Snake Eyes G.I. Joe Origins","Action","Metro-Goldwyn-Mayer","USA",122,12,2021,13,5.4
+"Happiest Season","Melodrama","Entertainment One","USA",102,0,2020,27,6.6
+"Archive","Fantasy","Head Gear Films","United Kingdom",100,12,2020,20,6.4
+"Peninsula","Action","Next Entertainment World","South Korea",114,16,2020,34,5.5
+"Force of Nature","Action","Emmett","USA",91,16,2020,20,4.5
+"The Rental","Horrors","Black Bear Pictures","USA",88,16,2020,13,5.7
+"Greenland","Action","Riverstone Pictures","USA",119,16,2020,83,6.4
+"The High Note","Melodrama","Universal Pictures","USA",113,12,2020,13,6.5
+"Jungle Beat The Movie","Cartoon","Sandcastle Studios","Mauritius",88,0,2020,34,5.6
+"The Outpost","Action","Millennium Films","USA",123,16,2020,13,6.8
+"Blithe Spirit","Comedy","Studio Canal","United Kingdom",95,12,2020,23,5.4
+"Lady Driver","Adventure","ESX Entertainment","USA",104,12,2020,13,5.8
+"The French Dispatch","Comedy","20th Century Fox","Germany",108,16,2021,34,7.5
+"WOMAN","Documentary","Columbia Pictures","France",105,16,2019,1,7.8
+"THE EARTH IS BLUE AS AN ORANGE","Drama","Moonmakers","Ukraine",74,12,2020,13,7.5
+"Der Trafikant","Historical","Vanishing Angle","Austria",117,16,2018,13,6.5
+"Arkansas","Crime","Lion's Gate Films","USA",100,16,2020,20,6.0
+"THE SUICIDE SQUAD","Adventure","Warner Brothers Pictures","USA",132,18,2021,49,7.3
+"Schemers","Comedy","Schemers Film","United Kingdom",91,16,2019,13,5.4
+"Druk","Comedy","Zentropa Entertainments","Denmark",117,16,2020,6,7.8
+"The Nest","Thriller","BBC Films","United Kingdom",107,16,2020,20,6.3
+"La Daronne","Crime","Canal+","France",106,12,2020,20,6.2
+"Elleville Elfrid","Animation","Studio 100 Films","Norway",80,0,2020,20,4.9
+"Banksy","Documentary","Inspiring Films","USA",112,12,2020,3,7.0
+"2067","Fantasy","Arcadia","Australia",107,12,2020,20,4.9
+"I Used to Go Here","Comedy","BondIt Media Capital","USA",88,12,2020,13,5.6
+"My Neighbor Totoro","Documentary","Ghibli","Japan",86,0,2020,27,8.2
+"Sea Fever","Fantasy","Frakas Productions","USA",95,16,2020,6,5.8
+"The Dawn","Drama","Jaguar Cinema","USA",90,16,2020,6,4.0
+"A Nice Girl Like You","Comedy","Vertical Entertainment","USA",95,16,2020,6,5.2
+"The Child Remains","Detective","Bron Studios","Canada",107,18,2017,6,4.5
+"Die Wolf-Gäng","Adventure","Warner Brothers Pictures","Germany",97,0,2020,6,4.8
+"Miseuteo Ju sarajin VIP","Comedy","Barunson E&A","South Korea",113,0,2020,6,5.7
+"Unheimlich perfekte Freunde","Adventure","Bayerischer Rundfunk","Germany",90,0,2020,47,6.3
+"Ricchi di fantasia","Comedy","Rai Cinema","Italy",105,12,2020,27,5.9
+"The Croods A New Age","Adventure","DreamWorks Animation","USA",110,0,2020,6,7.0
+"We Summon the Darkness","Horrors","Thefyzz","USA",91,16,2020,13,5.2
+"SPACE JAM A NEW LEGACY","Adventure","Warner Brothers Pictures","USA",116,0,2021,48,4.4
+"Follow Me","Horrors","Escape Productions","USA",92,18,2020,20,5.4
+"CAPONE","Biographical","Bron","USA",103,16,2020,20,4.7
+"FREAKY","Horrors","Universal Pictures","USA",110,16,2020,27,6.4
+"The Comeback Trail","Comedy","Ingenious Media","USA",103,16,2020,28,5.6
+"The Red Shoes","Ballet","20th Century Fox","United Kingdom",97,16,2020,28,7.7
+"Frida Kahlo","Documentary","BBC Films","United Kingdom",90,12,2021,27,7.2
+"BAD ROADS","Drama","Kristi Films","Ukraine",124,18,2020,20,7.0
+"Uncle Vanya","Performance","Fabrique","United Kingdom",155,16,2020,13,7.6
+"Ooops! The Adventure Continues","Animation","Entertainment One","Ireland",86,0,2020,34,5.9
+"No Man's Land","Performance","Fabrique","United Kingdom",155,16,2016,20,8.1
+"The Doorman","Action","Vertigo Média","USA",93,16,2020,13,4.6
+"Le bonheur des uns...","Comedy","Artémis Productions","France",104,12,2020,13,6.1
+"Fatman","Comedy","Ingenious Media","USA",100,16,2020,2,5.9
+"Été 85","Drama","Canal+","France",100,18,2020,6,6.9
+"Alles is zoals het zou moeten zijn","Comedy","Interstellar pictures","Netherlands",108,16,2020,20,5.7
+"THE CRAFT LEGACY","Thriller","Columbia Pictures","USA",95,12,2020,20,4.4
+"THE WITCHES","Fantasy","Warner Brothers Pictures","USA",109,12,2020,41,5.3
+"The Tax Collector","Action","Cross Creek Pictures","USA",95,18,2020,13,4.8
+"The Wretched","Horrors","IFC Films","USA",95,16,2019,20,5.8
+"Synchronic","Drama","XYZ Films","USA",101,16,2019,19,6.2
+"The Stand-In","Comedy","Ingenious Media","USA",101,16,2020,13,4.7
+"Harry Potter and the Sorcerer's Stone","Adventure","Warner Brothers Pictures","USA",152,0,2001,6,7.6
+"Harry Potter and the Chamber of Secrets","Adventure","Warner Brothers Pictures","USA",161,0,2020,6,7.4
+"War Horse","Performance","Fabrique","United Kingdom",165,12,2014,20,7.2
+"Metallica Quebec Magnetic","Documentary","Warner Brothers Pictures","Germany",135,16,2012,6,8.4
+"Dreamland","Drama","Automatik Entertainment","USA",98,16,2020,13,5.8
+"THE CALL","Horrors","Voltage Pictures","USA",97,16,2020,13,4.2
+"Le discours","Comedy","Canal+","France",87,12,2021,6,6.4
+"AINBO Spirit of the Amazon","Adventure","Cinema Management Group","Peru",84,0,2020,20,4.7
+"Harry Potter and the Half-Blood Prince","Adventure","Warner Brothers Pictures","USA",153,0,2009,13,7.6
+"Harry Potter and the Deathly Hallows Part 1","Adventure","Warner Brothers Pictures","USA",146,16,2010,6,7.7
+"Harry Potter and the Deathly Hallows Part 2","Adventure","Warner Brothers Pictures","USA",130,16,2011,6,8.1
+"Awoken","Detective","Paramount Pictures","Australia",95,16,2019,6,5.2
+"Mortal Kombat","Fantasy","Warner Brothers Pictures","USA",100,18,2020,38,6.1
+"The Little Things","Thriller","Warner Brothers Pictures","USA",127,16,2020,27,6.3
+"Reminiscence","Fantasy","Warner Brothers Pictures","USA",116,16,2020,27,5.9
+"Shang-Chi and the Legend of the Ten Rings","Action","Walt Disney Pictures","USA",133,12,2021,71,7.6
+"The Murder of Nicole Brown Simpson","Crime","Sky Cinema","USA",82,16,2019,13,2.2
+"OUR FRIEND","Drama","Black Bear Pictures","USA",124,16,2019,13,7.3
+"Yung Lean In My Head","Documentary","Roy Andersson Filmproduktion AB","Sweden",120,18,2020,20,7.3
+"Beyond the Sky","Detective","RLJE Films","USA",82,12,2018,13,5.2
+"SONGBIRD","Drama","STX Entertainment","USA",84,16,2020,13,4.7
+"THE HOBBIT THE DESOLATION OF SMAUG","Fantasy","Warner Brothers Pictures","USA",161,16,2013,6,7.8
+"THE HOBBIT THE BATTLE OF THE FIVE ARMIES","Adventure","Warner Brothers Pictures","USA",144,16,2014,6,7.4
+"THE LORD OF THE RINGS THE FELLOWSHIP OF THE RING","Adventure","Warner Brothers Pictures","USA",178,0,2001,27,8.8
+"THE LORD OF THE RINGS THE TWO TOWERS","Adventure","Warner Brothers Pictures","USA",179,0,2002,6,8.7
+"THE LORD OF THE RINGS THE RETURN OF THE KING","Adventure","Warner Brothers Pictures","USA",201,0,2003,6,8.9
+"Il primo Natale","Comedy","Medusa Produzione Sciarlò","Italy",100,12,2019,7,5.3
+"Playhouse","Horrors","Picture Twelve","United Kingdom",86,16,2020,6,3.6
+"THE HOBBIT AN UNEXPECTED JOURNEY","Adventure","Warner Brothers Pictures","USA",169,12,2012,6,7.8
+"Die Känguru-Chroniken","Comedy","Zweites Deutsches Fernsehen","Germany",92,12,2020,27,5.3
+"STARDUST","Biographical","IFC Films","United Kingdom",109,16,2020,6,4.3
+"Gates of Darkness","Horrors","In Extremis","USA",91,18,2020,6,4.0
+"Dark Encounter","Detective","Escape Productions","United Kingdom",97,16,2020,6,5.3
+"Redemption Day","Action","Voltage Pictures","USA",99,16,2021,6,6.0
+"Grand Isle","Action","Saturn Films","USA",100,16,2020,20,4.6
+"Daughter of the Wolf","Action","Vertical Entertainment","Canada",88,16,2019,27,4.7
+"Faunutland and the Lost Magic","Adventure","Roy Andersson Filmproduktion AB","Sweden",85,0,2020,1,4.3
+"Vier zauberhafte Schwestern","Adventure","Dor Film Produktionsgesellschaft","Germany",97,0,2020,6,4.9
+"The Birdcatcher","Drama","Motion Picture Capital","Norway",100,16,2019,6,5.7
+"NOBODY","Crime","Universal Pictures","USA",92,16,2020,62,7.4
+"Adieu les cons","Comedy","Gaumont Film Company","France",87,16,2020,7,6.8
+"A Christmas Gift from Bob","Family","Lion's Gate Films","United Kingdom",92,0,2020,23,6.4
+"Villetta con ospiti","Thriller","Lion's Gate Films","Italy",88,16,2021,6,5.8
+"LET IT SNOW","Thriller","Universal Pictures","Ukraine",87,16,2020,20,4.4
+"Extinct","Adventure","China Film (Shanghai) International Media Co.","USA",85,0,2021,34,5.4
+"Wrath of Man","Thriller","Lion's Gate Films","USA",120,16,2021,88,7.1
+"Breaking News in Yuba County","Comedy","Universal Pictures","USA",100,16,2021,13,5.7
+"THE MARKSMAN","Thriller","Voltage Pictures","USA",120,16,2021,20,5.6
+"Gunpowder Milkshake","Comedy","Studio Canal","USA",114,16,2021,20,6.1
+"I Care a Lot","Crime","Black Bear Pictures","United Kingdom",118,16,2020,27,6.3
+"Distorted","Crime","Bron Studios","Canada",86,16,2018,9,4.6
+"FATALE","Detective","Lion's Gate Films","USA",102,16,2021,13,5.4
+"Majo no takkyûbin","Animation","Ghibli","Japan",103,0,1989,6,7.9
+"Wrong Turn The Foundation","Horrors","Constantin Film","USA",109,18,2021,6,5.5
+"Music","Drama","Vertical Entertainment","USA",107,12,2021,13,3.1
+"Money Plane","Action","Taylor & Dodge Entertainment","USA",82,16,2020,27,3.2
+"Queen Marie of Romania","Drama","Thefyzz","Romania",100,16,2019,20,7.4
+"Changeland","Adventure","Living Films","USA",86,16,2019,13,5.7
+"Irréversible - Inversion Intégrale","Thriller","Studio Canal","France",86,18,2020,3,7.4
+"Useless Humans","Comedy","Paramount Pictures","USA",77,16,2021,13,4.7
+"Hurricane","Drama","Head Gear Films","United Kingdom",107,16,2019,6,5.9
+"Sweat","Melodrama","Film i Väst","Poland",106,16,2020,6,6.6
+"I vitelloni","Comedy","Riama film","Italy",110,12,2021,6,7.9
+"The 100 Candles Game","Horrors","Huhu Studios","New Zealand",100,16,2020,13,4.7
+"Revolting Rhymes","Animation","Imagine Entertainment","United Kingdom",60,0,2016,13,7.9
+"Andra sidan","Horrors","Breidablick Film AB","Sweden",87,16,2021,13,5.3
+"House of Cardin","Documentary","Utopia","USA",95,0,2019,3,7.4
+"What Lies Below","Horrors","XYZ Films","USA",87,16,2020,6,4.3
+"HOST","Horrors","Vertigo Média","United Kingdom",57,16,2021,13,6.5
+"Retfærdighedens ryttere","Comedy","Zentropa Entertainments","Denmark",116,16,2020,13,7.6
+"Padrenostro","Melodrama","Lion's Gate Films","Italy",120,16,2021,6,5.9
+"Władcy przygód. Stąd do Oblivio","Adventure","Film i Väst","Poland",101,0,2019,27,5.6
+"Gott","Comedy","Voltage Pictures","Germany",98,12,2021,20,5.3
+"Radioactive","Biographical","Amazon Studios","United Kingdom",109,12,2019,6,6.3
+"The Mauritanian","Drama","STX Entertainment","United Kingdom",129,16,2021,34,7.5
+"National Theatre Live A View from the Bridge","Performance","Ghibli","United Kingdom",132,16,2015,13,8.5
+"Boss Level","Fantasy","TheFyzz","USA",100,18,2021,20,6.8
+"Billie Eilish The World's a Little Blurry","Documentary","Interscope Films","USA",140,18,2021,1,7.8
+"The Courier/Ironbark","Thriller","42","United Kingdom",111,12,2021,55,7.2
+"Skylin3s","Fantasy","XYZ Films","United Kingdom",113,12,2020,13,4.7
+"Women","Horrors","20th Century Fox","USA",92,16,2020,6,4.4
+"IN THE MOOD FOR LOVE (花樣年華)","Melodrama","Paradis Films","Hong Kong",98,16,2000,6,8.1
+"Run","Thriller","Lion's Gate Films","USA",109,16,2021,6,6.4
+"Four Kids and It","Adventure","Kinology","United Kingdom",100,0,2020,20,5.1
+"IT'S FOR YOUR OWN GOOD","Comedy","The Post Republic","Germany",91,12,2021,20,5.4
+"NIGHTMARE CINEMA","Horrors","Good Films Collective","USA",119,18,2021,13,5.5
+"COSMIC SIN","Action","BondIt Media Capital","USA",88,16,2021,13,2.5
+"OSS 117 Alerte rouge en Afrique noire","Comedy","Gaumont Film Company","France",117,16,2021,6,6.1
+"CRISIS","Thriller","Green Ray Films","Canada",118,16,2021,13,6.2
+"Silk Road","Crime","Lion's Gate Films","USA",110,16,2020,13,6.0
+"My Salinger Year","Comedy","Bron Studios","Canada",101,12,2021,13,6.4
+"La voce della luna","Comedy","Riama film","Italy",120,12,1990,6,6.3
+"WAY DOWN","Action","TF1","Spain",118,16,2021,20,6.4
+"Old","Thriller","Universal Pictures","USA",108,16,2021,34,5.8
+"Be Natural The Untold Story of Alice Guy-Blaché","Documentary","Artémis Productions","USA",102,16,2018,6,7.7
+"Easter in Art","Documentary","7 Art Productions","United Kingdom",86,12,2020,20,7.7
+"The Academy of Magic","Adventure","Gold Valley Films","USA",86,0,2021,20,3.5
+"LUCA","Adventure","Pixar Animation Studios","USA",95,0,2021,13,7.5
+"RON'S GONE WRONG","Adventure","20th Century Fox","USA",107,0,2021,41,7.2
+"Land","Drama","Big Indie Pictures","USA",89,12,2021,13,6.6
+"Let Him Go","Thriller","Universal Pictures","USA",114,16,2021,13,6.7
+"Nomadland","Drama","Marvel Studios","USA",108,16,2021,27,7.4
+"CHICK FIGHT","Action","Aqute Media","USA",97,16,2021,13,4.7
+"Little Women","Melodrama","Columbia Pictures","USA",135,0,2019,27,7.8
+"Carol","Drama","Film4","United Kingdom",118,16,2015,27,7.3
+"La leggenda del pianista sull'oceano","Melodrama","Medusa Produzione Sciarlò","Italy",120,0,1998,6,8.1
+"Maya the Bee 3 The Golden Orb","Adventure","Paramount Pictures","Australia",88,0,2021,13,5.9
+"The Father","Drama","Film4","United Kingdom",97,12,2021,27,8.3
+"Love","Comedy","Marro Films","USA",96,12,2020,6,5.0
+"Anything for Jackson","Horrors","Vortex Productions","Canada",97,16,2020,6,6.3
+"SEVENTH DAY","Horrors","Buffalo 8 Productions","USA",87,16,2020,27,4.5
+"Dveselu putenis","Drama","Kultfilma","Latvia",123,12,2019,6,7.5
+"Minari","Drama","Plan B Entertainment","USA",115,12,2021,20,7.5
+"MINAMATA","Drama","Head Gear Films","USA",115,16,2020,13,7.7
+"Adventures of Rufus The Fantastic Pet","Adventure","Lion's Gate Films","USA",85,0,2020,6,4.2
+"The Devil Below","Horrors","Vertical Entertainment","USA",97,16,2021,13,4.2
+"THE UNHOLY","Horrors","Sony Pictures Entertainment","USA",100,16,2021,20,5.1
+"Ammonite","Drama","Sony Pictures Entertainment","United Kingdom",120,16,2020,13,6.5
+"Godzilla vs. Kong","Adventure","Warner Brothers Pictures","USA",113,16,2021,13,6.4
+"Mortal Kombat","Fantasy","Warner Brothers Pictures","USA",100,18,2021,6,5.8
+"Chaos Walking","Adventure","Lion's Gate Films","USA",109,12,2021,13,5.8
+"Voyagers","Adventure","AGC Studios","USA",108,16,2021,13,5.4
+"Sound of Metal","Drama","Amazon Studios","USA",120,18,2019,6,7.8
+"Mulholland drive","Thriller","Universal Pictures","USA",147,18,2001,3,7.9
+"Spirit Untamed","Adventure","Universal Pictures","USA",88,0,2021,32,5.4
+"UN DIVAN À TUNIS","Comedy","Bac Films","Tunisia",88,16,2021,6,6.2
+"LES HIRONDELLES DE KABOUL","Drama","Les Productions du Trésor","France",81,16,2019,13,7.4
+"PAPICHA","Drama","Ciné","France",108,16,2021,27,7.0
+"LES CHATOUILLES","Drama","France 3 Cinéma","France",103,16,2018,13,7.1
+"THOSE WHO WISH ME DEAD","Thriller","Warner Brothers Pictures","USA",100,16,2021,20,6.0
+"La leggenda del pianista sull'oceano","Melodrama","Medusa Produzione Sciarlò",Italy,120,0,1998,20,8.1
+"American Fighter","Biographical","ESX Entertainment","USA",98,16,2021,6,5.2
+"Monsters of Man","Fantasy","Paramount Pictures","Australia",131,16,2020,13,5.4
+"The Box/Deo bakseu","Drama","Barunson E&A","South Korea",94,0,2021,1,7.9
+"ROCK DOG 2","Animation","Splash Entertainment","USA",91,0,2021,13,5.2
+"Le Tintoret et la nouvelle Venise","Documentary","Warner Brothers Pictures","Germany",86,12,2019,13,6.4
+"TILL DEATH","Thriller","Millennium Films","USA",88,18,2021,13,5.9
+"The Addams Family 2","Adventure","Universal Pictures","USA",93,0,2021,48,5.4
+"Antlers","Fantasy","Searchlight","USA",100,18,2021,13,6.3
+"The Eternals","Action","Marvel Studios","USA",158,12,2021,13,6.8
+"House of Gucci","Crime","Universal Pictures","USA",157,16,2021,27,7.0
+"Sunflowers","Documentary","Good Films Collective","United Kingdom",85,12,2021,6,6.7
+"69 The Saga of Danny Hernandez","Documentary","Huhu Studios","USA",101,18,2020,1,5.4
+"Gake no ue no Ponyo","Animation","Ghibli","Japan",101,0,2008,6,7.7
+"Tenkû no shiro Rapyuta","Animation","Studio Ghibli","Japan",125,0,1986,6,8.0
+"Die in a Gunfight","Drama","Lion's Gate Films","USA",96,16,2021,13,4.4
+"The Father","Thriller","Film4","France",97,12,2021,1,8.3
+"Those Who Wish Me Dead","Thriller","Warner Brothers Pictures","USA",100,16,2021,13,6.0
+"One Flew Over the Cuckoo's Nest","Drama","Fantasy Films","USA",133,16,1975,6,8.7
+"La bonne épouse","Comedy","France 3 Cinéma","France",108,12,2021,6,5.8
+"POLY","Adventure","France 3 Cinéma","France",102,0,2021,6,5.6
+"CHUNGKING EXPRESS","Comedy","Paradis Films","Hong Kong",103,16,1994,8,8.1
+"Gunda","Documentary","Maipo Film","Norway",93,0,2021,6,7.3
+"Long Story Short","Romance","Paramount Pictures","Australia",90,12,2021,13,6.5
+"Śniegu już nigdy nie będzie","Comedy","Film i Väst","Poland",113,16,2021,6,6.4
+"30 jours max","Comedy","M6 Films","France",87,16,2021,6,5.1
+"Endangered Species","Thriller","Lion's Gate Films","Kenya",101,16,2021,6,4.5
+"THE FOREVER PURGE","Thriller","Universal Pictures","USA",103,16,2021,27,5.4
+"Run with the Hunted","Drama","BondIt Media Capital","USA",93,16,2021,6,5.1
+"Best Sellers","Comedy","Foresight","USA",100,16,2021,13,6.1
+"Marco Effekten","Crime","Nordisk Film Production","Germany",125,16,2021,6,5.2
+"Meander","Fantasy","Fulltime Studio","France",90,16,2021,6,5.7
+"Bad Luck Banging Or Loony Porn","Comedy","Endorfilm","Czech",106,18,2021,13,6.7
+"Aya To Majo / Earwig And The Witch","Animation","Studio Ghibli","Japan",82,0,2021,6,4.8
+"THE ASSET","Action","Arthur Sarkissian Productions","USA",109,16,2021,20,6.1
+"My Rembrandt","Documentary","Interstellar pictures","Netherlands",95,12,2019,6,6.3
+"The Ice Road","Action","CODE Entertainment","USA",103,16,2021,20,5.6
+"Qu’est-ce qu’on a encore fait au bon Dieu?","Comedy","TF1","France",99,12,2021,6,6.1
+"Le dernier voyage","Adventure","Kinology","France",87,12,2021,13,5.5
+"Cruella","Comedy","Walt Disney Pictures","USA",133,12,2021,6,7.4
+"Demonic","Horrors","AGC Studios","Canada",104,16,2021,13,4.2
+"Knutsen & Ludvigsen 2 - Det store dyret","Adventure","Qvisten Animation","Norway",78,0,2021,20,6.3
+"Last Night in Soho","Thriller","Universal Pictures","USA",117,16,2021,27,7.3
+"Flashback","Drama","Resolute Films","Canada",97,16,2021,6,5.4
+"Luca","Adventure","Pixar Animation Studios","USA",100,0,2021,13,7.5
+"The Conjuring The Devil Made Me Do It","Horrors","Warner Brothers Pictures","USA",112,16,2021,27,6.3
+"In the Heights","Musical","Warner Brothers Pictures","USA",143,12,2021,27,7.4
+"Peter Rabbit 2 The Runaway","Adventure","Sony Pictures Entertainment","Australia",85,0,2021,1,6.2
+"Fast & Furious 9","Adventure","Universal Pictures","USA",145,12,2021,20,5.2
+"A Quiet Place Part II","Thriller","Paramount Pictures","USA",97,16,2021,20,7.3
+"Bloody Hell","Comedy","Paramount Pictures","Australia",93,16,2021,6,6.6
+"PAW Patrol The Movie","Adventure","Paramount Pictures","USA",88,0,2021,20,6.2
+"Faraway Eyes","Comedy","Dayenu Films","USA",118,16,2021,6,4.9
+"Lansky","Crime","120dB Films","USA",119,16,2021,6,6.3
+"Ich bin dein Mensch","Romance","Letterbox Filmproduktion","Germany",108,12,2021,13,7.1
+"DON’T BREATHE 2","Thriller","Sony Pictures Entertainment","USA",120,18,2021,20,6.1
+"Black Widow","Thriller","Marvel Studios","USA",133,16,2021,13,6.7
+"SPACE JAM A NEW LEGACY","Adventure","Warner Brothers Pictures","USA",116,0,2021,20,4.4
+"Kung Fu Mulan","Adventure","Gold Valley Films","China",100,0,2021,13,4.2
+"Queenpins","Comedy","Red Hour Films","USA",110,16,2021,19,6.3
+"Copshop","Action","STX Entertainment","USA",107,16,2021,13,6.2
+"Initiation","Action","XYZ Films","USA",96,18,2021,6,5.1
+"H Is for Happiness","Adventure","Paramount Pictures","Australia",102,0,2021,20,6.6
+"Juega Conmigo","Horrors","Lemon Studios","Mexico",80,12,2021,6,5.0
+"Queen of Spades","Horrors","Bron Studios","Canada",92,16,2021,13,3.7
+"Boonie Bears The Wild Life","Adventure","Lion's Gate Films","China",99,0,2021,6,5.4
+"La Pianiste","Drama","Arte France Cinéma","France",130,18,2001,27,7.5
+"The Unlit","Horrors","Head Gear Films","Australia",100,18,2021,6,4.3
+"Passion simple","Melodrama","Les Films Pelléas","Belgium",97,18,2021,6,5.4
+"Jolt","Action","Millennium Films","USA",90,16,2021,6,5.6
+"Around the World","Adventure","Studio Canal","France",82,0,2021,41,4.9
+"Smelliville","Animation","Zweites Deutsches Fernsehen","Germany",85,0,2021,7,4.9
+"Midnight in the Switchgrass","Thriller","BondIt Media Capital","USA",99,16,2021,6,4.4
+"National Theatre Live Skylight","Performance","Anima Estudios","United Kingdom",150,16,2014,27,8.4
+"Jungle Cruise","Adventure","Walt Disney Pictures","USA",128,16,2021,1,6.6
+"Free Guy","Action","20th Century Fox","USA",115,12,2021,47,7.2
+"Gaia","Fantasy","Kinology","South Africa",96,18,2021,6,5.5
+"Yakari","Adventure","Les Films Pelléas","Belgium",82,0,2021,13,6.6
+"Les parapluies de Cherbourg","Melodrama","20th Century Fox","France",91,0,1964,20,7.8
+"Annette","Melodrama","Arte France Cinéma","France",139,16,2021,6,6.4
+"Cryptozoo","Animation","Magnolia Pictures","USA",95,16,2021,6,6.5
+"Resident Evil Welcome to Raccoon City","Adventure","Sony Pictures Entertainment","USA",117,16,2021,27,5.6
+"Benedetta","Biographical","Pathé","France",131,18,2021,6,6.6
+"The Suicide Squad","Fantasy","Warner Brothers Pictures","USA",132,18,2021,20,7.3
+"Titane","Drama","Canal+","France",108,18,2021,6,6.7
+"The Man Who Sold His Skin","Drama","Bac Films","Tunisia",104,16,2021,6,7.0
+"A Taste of Hunger","Romance","Zentropa Entertainments","Sweden",104,16,2021,6,6.6
+"Moonbound","Adventure","Warner Brothers Pictures","Germany",85,0,2021,27,4.9
+"La double vie de Véronique","Detective","Canal+","France",98,16,1991,13,7.8
+"No Man of God","Crime","RLJE Films","USA",100,16,2021,6,6.4
+"Dear Evan Hansen","Drama","Universal Pictures","USA",131,12,2021,27,6.1
+"Reset","Documentary","Les Films Pelléas","France",85,12,2021,1,6.7
+"The Green Knight","Fantasy","Bron Studios","USA",130,16,2021,6,6.6
+"REMINISCENCE","Fantasy","Warner Brothers Pictures","USA",116,16,2021,6,5.9
+"Blindsided","Action","Inspiring Films","USA",92,16,2021,6,3.2
+"Hero Mode","Adventure","Blue Fox Entertainment","USA",88,12,2021,6,4.9
+"Dead in the Water","Thriller","Lion's Gate Films","USA",92,16,2021,27,4.2
+"Archenemy","Action","Head Gear Films","USA",90,16,2021,27,5.0
+"Triggered","Thriller","Fabrique","South Africa",94,18,2021,6,5.5
+"The Card Counter","Action","Focus Features","United Kingdom",109,16,2021,13,6.2
+"La haine","Drama","Canal+","France",98,16,1995,6,8.1
+"All About Sex","Comedy","Salt & Light Films","USA",104,18,2021,6,4.2
+"Nebenan","Adventure","Warner Brothers Pictures","USA",91,12,2021,6,7.1
+"The Colony","Fantasy","Warner Brothers Pictures","Germany",104,16,2021,27,5.4
+"Haut Couture","Comedy","Les Films Pelléas","France",95,12,2021,27,6.5
+"Cambio tutto","Comedy","Medusa Produzione Sciarlò","Italy",90,16,2021,6,5.9
+"Dating & New York","Comedy","IFC Films","USA",91,12,2021,6,5.1
+"Josee to Tora to Sakana-tachi","Animation","Paramount Pictures","Japan",99,12,2021,13,7.8
+"Le sens de la famille","Comedy","Gaumont Film Company","France",92,16,2021,6,6.0
+"Pourris gâtés","Adventure","Canal+","France",95,12,2021,27,5.9
+"Dune","Adventure","Warner Brothers Pictures","USA",155,12,2021,6,8.2
+"ABBA The Movie","Comedy","Roy Andersson Filmproduktion AB","Sweden",95,12,1977,6,6.4
+"Prisoners of the Ghostland","Action","XYZ Films","USA",100,16,2021,20,4.2
+"Shutter Island","Detective","Paramount Pictures","USA",138,16,2010,6,8.2
+"Jim Knopf und die Wilde 13","Adventure","Warner Brothers Pictures","Germany",110,0,2021,6,6.3
+"I mysi patrí do nebe","Adventure","Silver Screen","Czech",80,0,2021,13,7.6
+"Lamb","Mysticism","Film i Väst","Poland",106,16,2021,6,6.3
+"Cloud Atlas","Detective","Warner Brothers Pictures","USA",172,16,2012,6,7.4
+"Madres paralelas","Drama","El Deseo S.A.","Spain",120,16,2021,20,7.0
+"Memoria","Drama","STX Entertainment","Colombia",136,12,2021,2,7.0
+"Shutter Island","Detective","Paramount Pictures","USA",138,16,2010,6,8.2
+"The Last Duel","Drama","20th Century Fox","United Kingdom",153,16,2021,6,7.6
+"I","Drama","BBC Films","United Kingdom",100,12,2016,6,7.9
+"Schachnovelle","Drama","Studio Canal","Germany",110,16,2021,6,7.3
+"Enfant Terrible","Biographical","Warner Brothers Pictures","Germany",134,16,2020,13,6.0
+"Cleo","Comedy","Warner Brothers Pictures","Germany",99,16,2019,27,6.6
+"Ökozid","Comedy","Warner Brothers Pictures","Germany",90,16,2020,6,5.0
+"The Electrical Life of Louis Wain","Biographical","Film4","United Kingdom",111,12,2021,5,6.8
+"La dolce vita","Drama","Riama film","Italy",176,0,1960,25,8.0
+"A Nightmare on Elm Street","Horrors","New Line Cinema","USA",92,18,1984,13,7.5
+"Venom Let There Be Carnage","Action","Sony Pictures Entertainment","USA",98,16,2021,13,6.1
+"No Time to Die","Adventure","Universal Pictures","United Kingdom",163,12,2021,26,7.4
+"Blow-Up","Drama","Metro-Goldwyn-Mayer","United Kingdom",111,16,1966,13,7.6
+"My Son","Crime","Canal+","United Kingdom",95,16,2021,6,6.0
+"The Savior for Sale","Documentary","Ciné","France",97,12,2021,13,7.6
+"Schachnovelle","Historical","Studio Canal","Germany",110,16,2021,27,7.3
+"The French Dispatch","Comedy","20th Century Fox","USA",103,16,2021,13,7.5
+"The Electrical Life of Louis Wain","Biographical","Film4","United Kingdom",111,12,2021,6,6.8
+"Dead Man","Western","Miramax Films","USA",121,16,1995,6,7.6
+"Cloud Atlas","Fantasy","Warner Brothers Pictures","Germany",172,16,2021,6,7.4
+"Encanto","Adventure","Walt Disney Pictures","USA",110,0,2021,3,7.7
