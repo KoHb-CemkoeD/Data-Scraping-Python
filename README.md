@@ -61,7 +61,10 @@ corresponding Google Colab notebooks.**
 ---
 
 ## Project Structure
-Data-Scraping-Python/
+
+Data-Scraping-Python
+
+```
 │
 ├── foxtrot/
 │ ├── DataCollector.py # scraping product pages
@@ -74,11 +77,10 @@ Data-Scraping-Python/
 │ ├── DataCollectorHelper.py # data normalization dictionaries
 │ ├── metadata.txt # notes for dataset processing
 │ ├── multiplex.txt # final dataset (CSV format)
-│ └── main.py
+│ └── main.py # run/organize scrapers
 │
 └── README.md
-
-
+```
 ---
 
 ## Technologies Used
